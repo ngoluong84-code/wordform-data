@@ -1,0 +1,1267 @@
+[
+ {
+  "root": "EQUAL",
+  "w": "inequality",
+  "pos": "noun",
+  "ipa": "/ˌɪn.ɪˈkwɒl.ə.ti/",
+  "vi": "sự bất bình đẳng",
+  "icon": "⚖️",
+  "wf": "The law has done little to prevent racial discrimination and ___.",
+  "wfVi": "Luật pháp làm được rất ít để ngăn phân biệt chủng tộc và sự bất bình đẳng.",
+  "family": [
+   "equal (adj)",
+   "equality (n)",
+   "inequality (n)",
+   "equally (adv)"
+  ],
+  "en": "There is still inequality between men and women.",
+  "enVi": "Vẫn còn sự bất bình đẳng giữa nam và nữ.",
+  "en2": "Social inequality is a serious problem.",
+  "enVi2": "Bất bình đẳng xã hội là một vấn đề nghiêm trọng.",
+  "syn": [
+   "disparity|sự chênh lệch"
+  ],
+  "ant": [
+   "equality|sự bình đẳng"
+  ],
+  "id": "b1-001"
+ },
+ {
+  "root": "REVOLUTION",
+  "w": "revolutionized",
+  "pos": "verb",
+  "ipa": "/ˌrev.əˈluː.ʃən.aɪzd/",
+  "vi": "đã cách mạng hóa, thay đổi mạnh mẽ",
+  "icon": "🔬",
+  "wf": "Newton's discoveries ___ physics.",
+  "wfVi": "Những khám phá của Newton đã cách mạng hóa vật lý học.",
+  "family": [
+   "revolution (n)",
+   "revolutionary (adj)",
+   "revolutionize (v)"
+  ],
+  "en": "The internet revolutionized communication.",
+  "enVi": "Internet đã cách mạng hóa việc giao tiếp.",
+  "en2": "Smartphones revolutionized how we live.",
+  "enVi2": "Điện thoại thông minh đã thay đổi mạnh mẽ cách ta sống.",
+  "syn": [
+   "transform|biến đổi"
+  ],
+  "ant": [],
+  "id": "b1-002"
+ },
+ {
+  "root": "TERRIFY",
+  "w": "terrified",
+  "pos": "adj",
+  "ipa": "/ˈter.ɪ.faɪd/",
+  "vi": "sợ hãi, khiếp sợ",
+  "icon": "😱",
+  "wf": "She's ___ that her mother might find out her secret.",
+  "wfVi": "Cô ấy sợ hãi rằng mẹ mình có thể phát hiện ra bí mật.",
+  "family": [
+   "terrify (v)",
+   "terrified (adj)",
+   "terrifying (adj)",
+   "terror (n)"
+  ],
+  "en": "I'm terrified of spiders.",
+  "enVi": "Tôi sợ nhện kinh khủng.",
+  "en2": "He looked terrified during the storm.",
+  "enVi2": "Cậu ấy trông sợ hãi trong cơn bão.",
+  "syn": [
+   "frightened|sợ",
+   "scared|hoảng sợ"
+  ],
+  "ant": [
+   "calm|bình tĩnh"
+  ],
+  "id": "b1-003"
+ },
+ {
+  "root": "SERIOUS",
+  "w": "seriously",
+  "pos": "adv",
+  "ipa": "/ˈsɪə.ri.əs.li/",
+  "vi": "nghiêm trọng; nghiêm túc",
+  "icon": "🩹",
+  "wf": "He wasn't ___ injured - he just got a few cuts and bruises.",
+  "wfVi": "Anh ấy không bị thương nghiêm trọng - chỉ vài vết cắt và bầm tím.",
+  "family": [
+   "serious (adj)",
+   "seriously (adv)",
+   "seriousness (n)"
+  ],
+  "en": "Nobody was seriously hurt in the accident.",
+  "enVi": "Không ai bị thương nặng trong vụ tai nạn.",
+  "en2": "You should take this matter seriously.",
+  "enVi2": "Bạn nên xem xét vấn đề này một cách nghiêm túc.",
+  "syn": [
+   "severely|nghiêm trọng"
+  ],
+  "ant": [
+   "slightly|nhẹ"
+  ],
+  "id": "b1-004"
+ },
+ {
+  "root": "BELIEVE",
+  "w": "belief",
+  "pos": "noun",
+  "ipa": "/bɪˈliːf/",
+  "vi": "niềm tin",
+  "icon": "🙏",
+  "wf": "His ___ in God gave him hope during difficult times.",
+  "wfVi": "Niềm tin vào Chúa đã cho anh ấy hy vọng trong lúc khó khăn.",
+  "family": [
+   "believe (v)",
+   "belief (n)",
+   "believable (adj)",
+   "believer (n)"
+  ],
+  "en": "She has a strong belief in justice.",
+  "enVi": "Cô ấy có niềm tin mạnh mẽ vào công lý.",
+  "en2": "It is my belief that honesty matters.",
+  "enVi2": "Tôi tin rằng sự trung thực rất quan trọng.",
+  "syn": [
+   "faith|đức tin"
+  ],
+  "ant": [
+   "doubt|sự nghi ngờ"
+  ],
+  "id": "b1-005"
+ },
+ {
+  "root": "HELP",
+  "w": "helpless",
+  "pos": "adj",
+  "ipa": "/ˈhelp.ləs/",
+  "vi": "bất lực, không làm gì được",
+  "icon": "😟",
+  "wf": "You feel so ___ because there's nothing you can do to make the child better.",
+  "wfVi": "Bạn cảm thấy thật bất lực vì không thể làm gì để đứa trẻ khỏe hơn.",
+  "family": [
+   "help (v/n)",
+   "helpful (adj)",
+   "helpless (adj)",
+   "helpfully (adv)"
+  ],
+  "en": "The kitten was small and helpless.",
+  "enVi": "Chú mèo con nhỏ bé và bất lực.",
+  "en2": "I felt helpless watching them struggle.",
+  "enVi2": "Tôi thấy bất lực khi nhìn họ vật lộn.",
+  "syn": [
+   "powerless|không có sức"
+  ],
+  "ant": [
+   "powerful|mạnh mẽ"
+  ],
+  "id": "b1-006"
+ },
+ {
+  "root": "SOCIETY",
+  "w": "social",
+  "pos": "adj",
+  "ipa": "/ˈsəʊ.ʃəl/",
+  "vi": "thuộc xã hội, giao tiếp",
+  "icon": "🎉",
+  "wf": "I had an active ___ life when I was at college.",
+  "wfVi": "Tôi có một đời sống xã hội năng động khi học đại học.",
+  "family": [
+   "society (n)",
+   "social (adj)",
+   "socially (adv)",
+   "socialize (v)"
+  ],
+  "en": "She enjoys a busy social life.",
+  "enVi": "Cô ấy thích một đời sống xã hội bận rộn.",
+  "en2": "Humans are social creatures.",
+  "enVi2": "Con người là sinh vật xã hội.",
+  "syn": [],
+  "ant": [],
+  "id": "b1-007"
+ },
+ {
+  "root": "QUALIFY",
+  "w": "disqualified",
+  "pos": "verb",
+  "ipa": "/dɪsˈkwɒl.ɪ.faɪd/",
+  "vi": "bị loại, bị tước quyền",
+  "icon": "🚫",
+  "wf": "Two top athletes have been ___ from the championship after positive drug tests.",
+  "wfVi": "Hai vận động viên hàng đầu đã bị loại khỏi giải sau khi dương tính với doping.",
+  "family": [
+   "qualify (v)",
+   "qualified (adj)",
+   "qualification (n)",
+   "disqualify (v)"
+  ],
+  "en": "He was disqualified for cheating.",
+  "enVi": "Anh ấy bị loại vì gian lận.",
+  "en2": "The team was disqualified from the contest.",
+  "enVi2": "Đội bị loại khỏi cuộc thi.",
+  "syn": [
+   "ban|cấm"
+  ],
+  "ant": [
+   "qualify|đủ tư cách"
+  ],
+  "id": "b1-008"
+ },
+ {
+  "root": "ECONOMY",
+  "w": "economical",
+  "pos": "adj",
+  "ipa": "/ˌiː.kəˈnɒm.ɪ.kəl/",
+  "vi": "tiết kiệm, ít tốn kém",
+  "icon": "⛽",
+  "wf": "There's increasing demand for cars that are more ___ on fuel.",
+  "wfVi": "Nhu cầu về những chiếc xe tiết kiệm nhiên liệu ngày càng tăng.",
+  "family": [
+   "economy (n)",
+   "economic (adj)",
+   "economical (adj)",
+   "economically (adv)"
+  ],
+  "en": "This small car is very economical.",
+  "enVi": "Chiếc xe nhỏ này rất tiết kiệm.",
+  "en2": "It is more economical to buy in bulk.",
+  "enVi2": "Mua số lượng lớn thì tiết kiệm hơn.",
+  "syn": [
+   "thrifty|tằn tiện"
+  ],
+  "ant": [
+   "wasteful|lãng phí"
+  ],
+  "id": "b1-009"
+ },
+ {
+  "root": "FORTUNE",
+  "w": "Unfortunately",
+  "pos": "adv",
+  "ipa": "/ʌnˈfɔː.tʃən.ət.li/",
+  "vi": "thật không may",
+  "icon": "😞",
+  "wf": "___, I didn't have my credit card with me, or else I would have bought it.",
+  "wfVi": "Thật không may, tôi không mang theo thẻ tín dụng, nếu không tôi đã mua nó.",
+  "family": [
+   "fortune (n)",
+   "fortunate (adj)",
+   "unfortunate (adj)",
+   "unfortunately (adv)"
+  ],
+  "en": "Unfortunately, the show was cancelled.",
+  "enVi": "Thật không may, buổi diễn đã bị hủy.",
+  "en2": "Unfortunately, we arrived too late.",
+  "enVi2": "Thật tiếc, chúng tôi đến quá muộn.",
+  "syn": [
+   "regrettably|đáng tiếc"
+  ],
+  "ant": [
+   "fortunately|may mắn thay"
+  ],
+  "id": "b1-010"
+ },
+ {
+  "root": "FRIGHT",
+  "w": "frightens",
+  "pos": "verb",
+  "ipa": "/ˈfraɪ.tənz/",
+  "vi": "làm sợ hãi",
+  "icon": "😨",
+  "wf": "He ___ me when he drives so fast.",
+  "wfVi": "Anh ấy làm tôi sợ khi lái xe quá nhanh.",
+  "family": [
+   "fright (n)",
+   "frighten (v)",
+   "frightened (adj)",
+   "frightening (adj)"
+  ],
+  "en": "Loud noises frighten the dog.",
+  "enVi": "Tiếng ồn lớn làm con chó sợ.",
+  "en2": "It frightens me to think about it.",
+  "enVi2": "Nghĩ về điều đó làm tôi sợ.",
+  "syn": [
+   "scare|làm hoảng"
+  ],
+  "ant": [
+   "calm|trấn an"
+  ],
+  "id": "b1-011"
+ },
+ {
+  "root": "EXHAUST",
+  "w": "exhausting",
+  "pos": "adj",
+  "ipa": "/ɪɡˈzɔː.stɪŋ/",
+  "vi": "mệt lử, làm kiệt sức",
+  "icon": "😩",
+  "wf": "After an ___ shift at the hospital, she just wanted to go to sleep.",
+  "wfVi": "Sau một ca làm mệt lử ở bệnh viện, cô ấy chỉ muốn đi ngủ.",
+  "family": [
+   "exhaust (v)",
+   "exhausted (adj)",
+   "exhausting (adj)",
+   "exhaustion (n)"
+  ],
+  "en": "The long journey was exhausting.",
+  "enVi": "Chuyến đi dài thật mệt lử.",
+  "en2": "Caring for a baby can be exhausting.",
+  "enVi2": "Chăm em bé có thể rất mệt.",
+  "syn": [
+   "tiring|mệt mỏi"
+  ],
+  "ant": [
+   "relaxing|thư giãn"
+  ],
+  "id": "b1-012"
+ },
+ {
+  "root": "SIMILAR",
+  "w": "similarly",
+  "pos": "adv",
+  "ipa": "/ˈsɪm.ɪ.lə.li/",
+  "vi": "tương tự, cũng vậy",
+  "icon": "🚦",
+  "wf": "Cars must stop at red traffic lights; ___, bicycles have to stop too.",
+  "wfVi": "Ô tô phải dừng ở đèn đỏ; tương tự, xe đạp cũng phải dừng.",
+  "family": [
+   "similar (adj)",
+   "similarly (adv)",
+   "similarity (n)"
+  ],
+  "en": "Both plans are similarly priced.",
+  "enVi": "Cả hai gói có giá tương tự nhau.",
+  "en2": "Similarly, students must follow the rules.",
+  "enVi2": "Tương tự, học sinh phải tuân theo quy định.",
+  "syn": [
+   "likewise|cũng vậy"
+  ],
+  "ant": [
+   "differently|khác biệt"
+  ],
+  "id": "b1-013"
+ },
+ {
+  "root": "MUSIC",
+  "w": "musicians",
+  "pos": "noun",
+  "ipa": "/mjuˈzɪʃ.ənz/",
+  "vi": "các nhạc công, nhạc sĩ",
+  "icon": "🎵",
+  "wf": "The concert features dancers and ___ of all nationalities.",
+  "wfVi": "Buổi hòa nhạc có vũ công và nhạc công thuộc mọi quốc tịch.",
+  "family": [
+   "music (n)",
+   "musical (adj)",
+   "musician (n)"
+  ],
+  "en": "The musicians played beautifully.",
+  "enVi": "Các nhạc công chơi rất hay.",
+  "en2": "She is one of the best musicians in the band.",
+  "enVi2": "Cô ấy là một trong những nhạc công giỏi nhất ban nhạc.",
+  "syn": [
+   "players|người chơi nhạc"
+  ],
+  "ant": [],
+  "id": "b1-014"
+ },
+ {
+  "root": "MONTH",
+  "w": "monthly",
+  "pos": "adj",
+  "ipa": "/ˈmʌnθ.li/",
+  "vi": "hàng tháng",
+  "icon": "📅",
+  "wf": "Members all receive a free copy of the ___ newsletter.",
+  "wfVi": "Tất cả thành viên đều nhận một bản tin hàng tháng miễn phí.",
+  "family": [
+   "month (n)",
+   "monthly (adj/adv)"
+  ],
+  "en": "We hold a monthly meeting.",
+  "enVi": "Chúng tôi họp hàng tháng.",
+  "en2": "She pays a monthly fee for the gym.",
+  "enVi2": "Cô ấy trả phí phòng gym hàng tháng.",
+  "syn": [],
+  "ant": [],
+  "id": "b1-015"
+ },
+ {
+  "root": "REFLECT",
+  "w": "reflection",
+  "pos": "noun",
+  "ipa": "/rɪˈflek.ʃən/",
+  "vi": "hình phản chiếu; sự suy ngẫm",
+  "icon": "🪞",
+  "wf": "She was looking at her ___ in the mirror.",
+  "wfVi": "Cô ấy đang nhìn hình phản chiếu của mình trong gương.",
+  "family": [
+   "reflect (v)",
+   "reflection (n)",
+   "reflective (adj)"
+  ],
+  "en": "He saw his reflection in the water.",
+  "enVi": "Anh ấy thấy hình mình phản chiếu dưới nước.",
+  "en2": "The book is a reflection on modern life.",
+  "enVi2": "Cuốn sách là sự suy ngẫm về cuộc sống hiện đại.",
+  "syn": [
+   "image|hình ảnh"
+  ],
+  "ant": [],
+  "id": "b1-016"
+ },
+ {
+  "root": "SECOND",
+  "w": "secondary",
+  "pos": "adj",
+  "ipa": "/ˈsek.ən.dri/",
+  "vi": "thứ yếu, phụ",
+  "icon": "2️⃣",
+  "wf": "Her health is what matters - the cost of the treatment is of ___ importance.",
+  "wfVi": "Sức khỏe của cô ấy mới quan trọng - chi phí điều trị chỉ là thứ yếu.",
+  "family": [
+   "second (n/adj)",
+   "secondary (adj)",
+   "secondly (adv)"
+  ],
+  "en": "This is a secondary issue.",
+  "enVi": "Đây là vấn đề thứ yếu.",
+  "en2": "Comfort is secondary to safety.",
+  "enVi2": "Sự thoải mái là thứ yếu so với an toàn.",
+  "syn": [
+   "minor|nhỏ"
+  ],
+  "ant": [
+   "primary|chính yếu"
+  ],
+  "id": "b1-017"
+ },
+ {
+  "root": "EFFECT",
+  "w": "effectively",
+  "pos": "adv",
+  "ipa": "/ɪˈfek.tɪv.li/",
+  "vi": "một cách hiệu quả",
+  "icon": "💊",
+  "wf": "The tablets work more ___ if you take a hot drink after them.",
+  "wfVi": "Viên thuốc có tác dụng hiệu quả hơn nếu bạn uống đồ nóng sau đó.",
+  "family": [
+   "effect (n)",
+   "effective (adj)",
+   "effectively (adv)",
+   "effectiveness (n)"
+  ],
+  "en": "The team worked effectively together.",
+  "enVi": "Cả đội phối hợp hiệu quả.",
+  "en2": "Use your time effectively.",
+  "enVi2": "Hãy dùng thời gian hiệu quả.",
+  "syn": [
+   "efficiently|hiệu suất"
+  ],
+  "ant": [
+   "ineffectively|kém hiệu quả"
+  ],
+  "id": "b1-018"
+ },
+ {
+  "root": "THREAT",
+  "w": "threatening",
+  "pos": "adj",
+  "ipa": "/ˈθret.ən.ɪŋ/",
+  "vi": "đầy đe dọa",
+  "icon": "⛈️",
+  "wf": "As the ___ clouds approached, the winds suddenly blew up into a blinding snowstorm.",
+  "wfVi": "Khi những đám mây đầy đe dọa kéo đến, gió bỗng nổi lên thành cơn bão tuyết mù mịt.",
+  "family": [
+   "threat (n)",
+   "threaten (v)",
+   "threatening (adj)"
+  ],
+  "en": "He sent a threatening letter.",
+  "enVi": "Anh ta gửi một lá thư đe dọa.",
+  "en2": "The sky looked dark and threatening.",
+  "enVi2": "Bầu trời trông tối và đầy đe dọa.",
+  "syn": [
+   "menacing|hăm dọa"
+  ],
+  "ant": [],
+  "id": "b1-019"
+ },
+ {
+  "root": "COMPETE",
+  "w": "competitor",
+  "pos": "noun",
+  "ipa": "/kəmˈpet.ɪ.tər/",
+  "vi": "đối thủ cạnh tranh",
+  "icon": "🏁",
+  "wf": "He's a tough ___ and will probably do well in business.",
+  "wfVi": "Anh ấy là một đối thủ cứng cỏi và có thể sẽ thành công trong kinh doanh.",
+  "family": [
+   "compete (v)",
+   "competition (n)",
+   "competitor (n)",
+   "competitive (adj)"
+  ],
+  "en": "Our main competitor lowered its prices.",
+  "enVi": "Đối thủ chính của chúng tôi đã giảm giá.",
+  "en2": "She is a fierce competitor.",
+  "enVi2": "Cô ấy là một đối thủ đáng gờm.",
+  "syn": [
+   "rival|kỳ phùng địch thủ"
+  ],
+  "ant": [
+   "ally|đồng minh"
+  ],
+  "id": "b1-020"
+ },
+ {
+  "root": "COURAGE",
+  "w": "discouragement",
+  "pos": "noun",
+  "ipa": "/dɪsˈkʌr.ɪdʒ.mənt/",
+  "vi": "sự nản lòng, nản chí",
+  "icon": "😞",
+  "wf": "He had known ___ and failure, but in the end he persevered and wound up with a successful business.",
+  "wfVi": "Anh ấy đã từng nản lòng và thất bại, nhưng cuối cùng vẫn kiên trì và có một doanh nghiệp thành công.",
+  "family": [
+   "courage (n)",
+   "encourage (v)",
+   "discourage (v)",
+   "discouragement (n)"
+  ],
+  "en": "Despite discouragement, she kept trying.",
+  "enVi": "Dù nản lòng, cô ấy vẫn tiếp tục cố gắng.",
+  "en2": "His words were a source of discouragement.",
+  "enVi2": "Lời nói của anh ta là nguồn cơn của sự nản chí.",
+  "syn": [
+   "disappointment|thất vọng"
+  ],
+  "ant": [
+   "encouragement|sự động viên"
+  ],
+  "id": "b1-021"
+ },
+ {
+  "root": "BREAK",
+  "w": "breakthrough",
+  "pos": "noun",
+  "ipa": "/ˈbreɪk.θruː/",
+  "vi": "bước đột phá",
+  "icon": "💥",
+  "wf": "This drug has been heralded as a major ___ in the fight against breast cancer.",
+  "wfVi": "Loại thuốc này được ca ngợi là một bước đột phá lớn trong cuộc chiến chống ung thư vú.",
+  "family": [
+   "break (v/n)",
+   "breakthrough (n)"
+  ],
+  "en": "Scientists made a breakthrough in cancer research.",
+  "enVi": "Các nhà khoa học đã có bước đột phá trong nghiên cứu ung thư.",
+  "en2": "The discovery was a real breakthrough.",
+  "enVi2": "Phát hiện đó là một bước đột phá thực sự.",
+  "syn": [
+   "advance|bước tiến"
+  ],
+  "ant": [],
+  "id": "b1-022"
+ },
+ {
+  "root": "RELAX",
+  "w": "relaxation",
+  "pos": "noun",
+  "ipa": "/ˌriː.lækˈseɪ.ʃən/",
+  "vi": "sự thư giãn",
+  "icon": "🧘",
+  "wf": "She teaches ___ techniques.",
+  "wfVi": "Cô ấy dạy các kỹ thuật thư giãn.",
+  "family": [
+   "relax (v)",
+   "relaxed (adj)",
+   "relaxing (adj)",
+   "relaxation (n)"
+  ],
+  "en": "Music is a form of relaxation for me.",
+  "enVi": "Âm nhạc là một cách thư giãn với tôi.",
+  "en2": "Take time for rest and relaxation.",
+  "enVi2": "Hãy dành thời gian nghỉ ngơi và thư giãn.",
+  "syn": [
+   "rest|nghỉ ngơi"
+  ],
+  "ant": [
+   "stress|căng thẳng"
+  ],
+  "id": "b1-023"
+ },
+ {
+  "root": "EXPLORE",
+  "w": "explorer",
+  "pos": "noun",
+  "ipa": "/ɪkˈsplɔː.rər/",
+  "vi": "nhà thám hiểm",
+  "icon": "🧭",
+  "wf": "Magellan was a famous 16th-century ___.",
+  "wfVi": "Magellan là một nhà thám hiểm nổi tiếng thế kỷ 16.",
+  "family": [
+   "explore (v)",
+   "exploration (n)",
+   "explorer (n)"
+  ],
+  "en": "The explorer crossed the icy continent.",
+  "enVi": "Nhà thám hiểm đã băng qua lục địa băng giá.",
+  "en2": "She dreams of becoming a space explorer.",
+  "enVi2": "Cô ấy mơ ước trở thành nhà thám hiểm vũ trụ.",
+  "syn": [
+   "adventurer|người phiêu lưu"
+  ],
+  "ant": [],
+  "id": "b1-024"
+ },
+ {
+  "root": "DENY",
+  "w": "denial",
+  "pos": "noun",
+  "ipa": "/dɪˈnaɪ.əl/",
+  "vi": "sự phủ nhận, chối bỏ",
+  "icon": "🚫",
+  "wf": "Officials did not believe the runner's ___ that he had taken drugs.",
+  "wfVi": "Các quan chức không tin lời phủ nhận của vận động viên rằng anh ta đã dùng thuốc.",
+  "family": [
+   "deny (v)",
+   "denial (n)",
+   "undeniable (adj)"
+  ],
+  "en": "His denial did not convince anyone.",
+  "enVi": "Lời chối của anh ta không thuyết phục được ai.",
+  "en2": "She is in denial about the problem.",
+  "enVi2": "Cô ấy đang chối bỏ vấn đề.",
+  "syn": [
+   "rejection|sự bác bỏ"
+  ],
+  "ant": [
+   "admission|sự thừa nhận"
+  ],
+  "id": "b1-025"
+ },
+ {
+  "root": "ENTER",
+  "w": "entrances",
+  "pos": "noun",
+  "ipa": "/ˈen.trən.sɪz/",
+  "vi": "lối vào",
+  "icon": "🚪",
+  "wf": "There are two ___ - one at the front and one around the back.",
+  "wfVi": "Có hai lối vào - một ở phía trước và một ở phía sau.",
+  "family": [
+   "enter (v)",
+   "entrance (n)",
+   "entry (n)"
+  ],
+  "en": "The main entrance is on the left.",
+  "enVi": "Lối vào chính ở bên trái.",
+  "en2": "Both entrances were locked.",
+  "enVi2": "Cả hai lối vào đều bị khóa.",
+  "syn": [
+   "doorway|cửa ra vào"
+  ],
+  "ant": [
+   "exit|lối ra"
+  ],
+  "id": "b1-026"
+ },
+ {
+  "root": "BEAUTY",
+  "w": "beautify",
+  "pos": "verb",
+  "ipa": "/ˈbjuː.tɪ.faɪ/",
+  "vi": "làm đẹp",
+  "icon": "💄",
+  "wf": "She went upstairs to ___ herself.",
+  "wfVi": "Cô ấy lên gác để làm đẹp cho mình.",
+  "family": [
+   "beauty (n)",
+   "beautiful (adj)",
+   "beautify (v)",
+   "beautifully (adv)"
+  ],
+  "en": "They planted flowers to beautify the park.",
+  "enVi": "Họ trồng hoa để làm đẹp công viên.",
+  "en2": "New paint can beautify an old house.",
+  "enVi2": "Lớp sơn mới có thể làm đẹp ngôi nhà cũ.",
+  "syn": [
+   "adorn|tô điểm"
+  ],
+  "ant": [
+   "spoil|làm hỏng"
+  ],
+  "id": "b1-027"
+ },
+ {
+  "root": "EXCHANGE",
+  "w": "exchangeable",
+  "pos": "adj",
+  "ipa": "/ɪksˈtʃeɪn.dʒə.bəl/",
+  "vi": "có thể đổi được",
+  "icon": "🔁",
+  "wf": "Goods are ___ as long as they are returned in good condition.",
+  "wfVi": "Hàng hóa có thể đổi được miễn là được trả lại trong tình trạng tốt.",
+  "family": [
+   "exchange (v/n)",
+   "exchangeable (adj)"
+  ],
+  "en": "These tickets are not exchangeable.",
+  "enVi": "Những vé này không thể đổi được.",
+  "en2": "The vouchers are exchangeable for cash.",
+  "enVi2": "Các phiếu này có thể đổi thành tiền mặt.",
+  "syn": [
+   "returnable|có thể trả lại"
+  ],
+  "ant": [],
+  "id": "b1-028"
+ },
+ {
+  "root": "RESPIRE",
+  "w": "respiratory",
+  "pos": "adj",
+  "ipa": "/rɪˈspɪr.ə.tər.i/",
+  "vi": "thuộc hô hấp",
+  "icon": "🫁",
+  "wf": "Smoking can cause ___ diseases.",
+  "wfVi": "Hút thuốc có thể gây ra các bệnh về hô hấp.",
+  "family": [
+   "respire (v)",
+   "respiration (n)",
+   "respiratory (adj)"
+  ],
+  "en": "He has a respiratory infection.",
+  "enVi": "Anh ấy bị nhiễm trùng đường hô hấp.",
+  "en2": "The respiratory system brings oxygen to the body.",
+  "enVi2": "Hệ hô hấp đưa oxy vào cơ thể.",
+  "syn": [],
+  "ant": [],
+  "id": "b1-029"
+ },
+ {
+  "root": "ULTIMATE",
+  "w": "ultimately",
+  "pos": "adv",
+  "ipa": "/ˈʌl.tɪ.mət.li/",
+  "vi": "cuối cùng, rốt cuộc",
+  "icon": "🎯",
+  "wf": "His ambition is ___ to run his own business.",
+  "wfVi": "Tham vọng của anh ấy rốt cuộc là điều hành doanh nghiệp riêng.",
+  "family": [
+   "ultimate (adj)",
+   "ultimately (adv)"
+  ],
+  "en": "Ultimately, the decision is yours.",
+  "enVi": "Cuối cùng, quyết định là của bạn.",
+  "en2": "Hard work ultimately pays off.",
+  "enVi2": "Sự chăm chỉ rốt cuộc sẽ được đền đáp.",
+  "syn": [
+   "eventually|cuối cùng"
+  ],
+  "ant": [
+   "initially|ban đầu"
+  ],
+  "id": "b1-030"
+ },
+ {
+  "root": "OCCUR",
+  "w": "occurrence",
+  "pos": "noun",
+  "ipa": "/əˈkʌr.əns/",
+  "vi": "sự việc xảy ra, hiện tượng",
+  "icon": "⚡",
+  "wf": "Street-fights are an everyday ___ in this area of the city.",
+  "wfVi": "Đánh nhau ngoài đường là chuyện xảy ra hằng ngày ở khu vực này.",
+  "family": [
+   "occur (v)",
+   "occurrence (n)"
+  ],
+  "en": "Floods are a common occurrence here.",
+  "enVi": "Lũ lụt là hiện tượng thường gặp ở đây.",
+  "en2": "It was a strange occurrence.",
+  "enVi2": "Đó là một sự việc kỳ lạ.",
+  "syn": [
+   "event|sự kiện"
+  ],
+  "ant": [],
+  "id": "b1-031"
+ },
+ {
+  "root": "GENEROUS",
+  "w": "generosity",
+  "pos": "noun",
+  "ipa": "/ˌdʒen.əˈrɒs.ə.ti/",
+  "vi": "sự hào phóng, rộng lượng",
+  "icon": "🎁",
+  "wf": "Her friends take advantage of her ___.",
+  "wfVi": "Bạn bè lợi dụng sự hào phóng của cô ấy.",
+  "family": [
+   "generous (adj)",
+   "generosity (n)",
+   "generously (adv)"
+  ],
+  "en": "Thank you for your generosity.",
+  "enVi": "Cảm ơn sự hào phóng của bạn.",
+  "en2": "His generosity helped many poor families.",
+  "enVi2": "Sự rộng lượng của ông đã giúp nhiều gia đình nghèo.",
+  "syn": [
+   "kindness|lòng tốt"
+  ],
+  "ant": [
+   "greed|sự tham lam"
+  ],
+  "id": "b1-032"
+ },
+ {
+  "root": "NATION",
+  "w": "nationwide",
+  "pos": "adj",
+  "ipa": "/ˌneɪ.ʃənˈwaɪd/",
+  "vi": "trên toàn quốc",
+  "icon": "🌐",
+  "wf": "Some miners are calling for a ___ strike in support of their sacked colleagues.",
+  "wfVi": "Một số thợ mỏ kêu gọi một cuộc đình công trên toàn quốc để ủng hộ đồng nghiệp bị sa thải.",
+  "family": [
+   "nation (n)",
+   "national (adj)",
+   "nationwide (adj/adv)"
+  ],
+  "en": "The company has a nationwide network.",
+  "enVi": "Công ty có mạng lưới trên toàn quốc.",
+  "en2": "The campaign was launched nationwide.",
+  "enVi2": "Chiến dịch được phát động trên cả nước.",
+  "syn": [
+   "countrywide|khắp nước"
+  ],
+  "ant": [
+   "local|địa phương"
+  ],
+  "id": "b1-033"
+ },
+ {
+  "root": "DESTROY",
+  "w": "destructive",
+  "pos": "adj",
+  "ipa": "/dɪˈstrʌk.tɪv/",
+  "vi": "có tính phá hoại",
+  "icon": "💢",
+  "wf": "The child needs help to control his ___ behavior.",
+  "wfVi": "Đứa trẻ cần được giúp đỡ để kiểm soát hành vi phá phách của mình.",
+  "family": [
+   "destroy (v)",
+   "destruction (n)",
+   "destructive (adj)"
+  ],
+  "en": "The storm was highly destructive.",
+  "enVi": "Cơn bão có sức tàn phá lớn.",
+  "en2": "Jealousy can be destructive.",
+  "enVi2": "Sự ghen tị có thể mang tính phá hoại.",
+  "syn": [
+   "damaging|gây hại"
+  ],
+  "ant": [
+   "constructive|xây dựng"
+  ],
+  "id": "b1-034"
+ },
+ {
+  "root": "REPLACE",
+  "w": "irreplaceable",
+  "pos": "adj",
+  "ipa": "/ˌɪr.ɪˈpleɪ.sə.bəl/",
+  "vi": "không thể thay thế",
+  "icon": "💎",
+  "wf": "No one's ___ in the workplace.",
+  "wfVi": "Không ai là không thể thay thế ở nơi làm việc.",
+  "family": [
+   "replace (v)",
+   "replacement (n)",
+   "replaceable (adj)",
+   "irreplaceable (adj)"
+  ],
+  "en": "These old photos are irreplaceable.",
+  "enVi": "Những bức ảnh cũ này là vô giá, không thể thay thế.",
+  "en2": "A good friend is irreplaceable.",
+  "enVi2": "Một người bạn tốt là không thể thay thế.",
+  "syn": [
+   "priceless|vô giá"
+  ],
+  "ant": [
+   "replaceable|có thể thay thế"
+  ],
+  "id": "b1-035"
+ },
+ {
+  "root": "VOLCANO",
+  "w": "volcanic",
+  "pos": "adj",
+  "ipa": "/vɒlˈkæn.ɪk/",
+  "vi": "thuộc núi lửa",
+  "icon": "🌋",
+  "wf": "Geologists understand many factors that cause ___ eruptions.",
+  "wfVi": "Các nhà địa chất hiểu nhiều yếu tố gây ra các vụ phun trào núi lửa.",
+  "family": [
+   "volcano (n)",
+   "volcanic (adj)"
+  ],
+  "en": "The island has volcanic soil.",
+  "enVi": "Hòn đảo có đất núi lửa.",
+  "en2": "Volcanic ash filled the sky.",
+  "enVi2": "Tro núi lửa phủ kín bầu trời.",
+  "syn": [],
+  "ant": [],
+  "id": "b1-036"
+ },
+ {
+  "root": "EXTEND",
+  "w": "extensively",
+  "pos": "adv",
+  "ipa": "/ɪkˈsten.sɪv.li/",
+  "vi": "rộng rãi, nhiều",
+  "icon": "🏠",
+  "wf": "The house was ___ rebuilt after the fire.",
+  "wfVi": "Ngôi nhà được xây lại rất nhiều sau vụ cháy.",
+  "family": [
+   "extend (v)",
+   "extension (n)",
+   "extensive (adj)",
+   "extensively (adv)"
+  ],
+  "en": "He has travelled extensively in Asia.",
+  "enVi": "Anh ấy đã đi nhiều nơi ở châu Á.",
+  "en2": "The topic has been studied extensively.",
+  "enVi2": "Chủ đề này đã được nghiên cứu rộng rãi.",
+  "syn": [
+   "widely|rộng rãi"
+  ],
+  "ant": [
+   "slightly|chút ít"
+  ],
+  "id": "b1-037"
+ },
+ {
+  "root": "NEED",
+  "w": "need",
+  "pos": "noun",
+  "ipa": "/niːd/",
+  "vi": "nhu cầu, sự cần thiết",
+  "icon": "✅",
+  "wf": "The report stresses the ___ of eating plenty of fresh fruit.",
+  "wfVi": "Báo cáo nhấn mạnh sự cần thiết của việc ăn nhiều trái cây tươi.",
+  "family": [
+   "need (v/n)",
+   "needy (adj)",
+   "unnecessary (adj)"
+  ],
+  "en": "There is a great need for clean water.",
+  "enVi": "Có nhu cầu lớn về nước sạch.",
+  "en2": "We must meet the basic needs of the poor.",
+  "enVi2": "Chúng ta phải đáp ứng nhu cầu cơ bản của người nghèo.",
+  "syn": [
+   "necessity|sự cần thiết"
+  ],
+  "ant": [],
+  "id": "b1-038"
+ },
+ {
+  "root": "INNOVATE",
+  "w": "innovator",
+  "pos": "noun",
+  "ipa": "/ˈɪn.ə.veɪ.tər/",
+  "vi": "nhà cải tiến, người đổi mới",
+  "icon": "💡",
+  "wf": "She has won a reputation as a leading ___ in the industry.",
+  "wfVi": "Cô ấy đã nổi tiếng là một nhà cải tiến hàng đầu trong ngành.",
+  "family": [
+   "innovate (v)",
+   "innovation (n)",
+   "innovator (n)",
+   "innovative (adj)"
+  ],
+  "en": "He is a brilliant innovator.",
+  "enVi": "Anh ấy là một nhà cải tiến xuất sắc.",
+  "en2": "Innovators change the way we live.",
+  "enVi2": "Những nhà đổi mới thay đổi cách chúng ta sống.",
+  "syn": [
+   "pioneer|người tiên phong"
+  ],
+  "ant": [],
+  "id": "b1-039"
+ },
+ {
+  "root": "PURE",
+  "w": "purify",
+  "pos": "verb",
+  "ipa": "/ˈpjʊə.rɪ.faɪ/",
+  "vi": "làm sạch, lọc",
+  "icon": "💧",
+  "wf": "Plants help to ___ the air.",
+  "wfVi": "Cây xanh giúp làm sạch không khí.",
+  "family": [
+   "pure (adj)",
+   "purity (n)",
+   "purify (v)"
+  ],
+  "en": "This device purifies water.",
+  "enVi": "Thiết bị này lọc sạch nước.",
+  "en2": "They use filters to purify the air.",
+  "enVi2": "Họ dùng bộ lọc để làm sạch không khí.",
+  "syn": [
+   "clean|làm sạch"
+  ],
+  "ant": [
+   "pollute|làm ô nhiễm"
+  ],
+  "id": "b1-040"
+ },
+ {
+  "root": "PRIORITY",
+  "w": "prioritize",
+  "pos": "verb",
+  "ipa": "/praɪˈɒr.ɪ.taɪz/",
+  "vi": "ưu tiên, sắp xếp ưu tiên",
+  "icon": "📌",
+  "wf": "You have to ___ in this job because you can't do everything.",
+  "wfVi": "Bạn phải biết ưu tiên trong công việc này vì không thể làm hết mọi thứ.",
+  "family": [
+   "priority (n)",
+   "prioritize (v)"
+  ],
+  "en": "Learn to prioritize your tasks.",
+  "enVi": "Hãy học cách ưu tiên công việc.",
+  "en2": "We must prioritize safety.",
+  "enVi2": "Chúng ta phải ưu tiên sự an toàn.",
+  "syn": [],
+  "ant": [],
+  "id": "b1-041"
+ },
+ {
+  "root": "NOMINATE",
+  "w": "nomination",
+  "pos": "noun",
+  "ipa": "/ˌnɒm.ɪˈneɪ.ʃən/",
+  "vi": "sự đề cử",
+  "icon": "🗳️",
+  "wf": "Three candidates are seeking the Democratic ___ for the presidency.",
+  "wfVi": "Ba ứng viên đang tìm kiếm sự đề cử của đảng Dân chủ cho chức tổng thống.",
+  "family": [
+   "nominate (v)",
+   "nomination (n)",
+   "nominee (n)"
+  ],
+  "en": "She received an Oscar nomination.",
+  "enVi": "Cô ấy nhận được đề cử Oscar.",
+  "en2": "His nomination was a surprise.",
+  "enVi2": "Sự đề cử của ông là một bất ngờ.",
+  "syn": [],
+  "ant": [],
+  "id": "b1-042"
+ },
+ {
+  "root": "DEPEND",
+  "w": "dependable",
+  "pos": "adj",
+  "ipa": "/dɪˈpen.də.bəl/",
+  "vi": "đáng tin cậy",
+  "icon": "🤝",
+  "wf": "I need someone ___ to take care of the child while I'm at work.",
+  "wfVi": "Tôi cần một người đáng tin cậy để chăm sóc đứa trẻ khi tôi đi làm.",
+  "family": [
+   "depend (v)",
+   "dependent (adj)",
+   "dependable (adj)",
+   "dependence (n)"
+  ],
+  "en": "He is a dependable worker.",
+  "enVi": "Anh ấy là một người làm việc đáng tin cậy.",
+  "en2": "We need a dependable car.",
+  "enVi2": "Chúng tôi cần một chiếc xe đáng tin cậy.",
+  "syn": [
+   "reliable|tin cậy"
+  ],
+  "ant": [
+   "unreliable|không đáng tin"
+  ],
+  "id": "b1-043"
+ },
+ {
+  "root": "FOND",
+  "w": "fondness",
+  "pos": "noun",
+  "ipa": "/ˈfɒnd.nəs/",
+  "vi": "sự yêu thích, ưa thích",
+  "icon": "💗",
+  "wf": "Ruth has a real ___ for old houses.",
+  "wfVi": "Ruth thực sự yêu thích những ngôi nhà cổ.",
+  "family": [
+   "fond (adj)",
+   "fondness (n)",
+   "fondly (adv)"
+  ],
+  "en": "She has a fondness for sweets.",
+  "enVi": "Cô ấy thích đồ ngọt.",
+  "en2": "He spoke with fondness about his childhood.",
+  "enVi2": "Anh ấy nói về tuổi thơ với sự trìu mến.",
+  "syn": [
+   "liking|sự thích"
+  ],
+  "ant": [
+   "dislike|sự ghét"
+  ],
+  "id": "b1-044"
+ },
+ {
+  "root": "OCCASION",
+  "w": "Occasionally",
+  "pos": "adv",
+  "ipa": "/əˈkeɪ.ʒən.əl.i/",
+  "vi": "thỉnh thoảng",
+  "icon": "🍫",
+  "wf": "___ I have a piece of chocolate, but it's very rare.",
+  "wfVi": "Thỉnh thoảng tôi ăn một miếng sô-cô-la, nhưng rất hiếm.",
+  "family": [
+   "occasion (n)",
+   "occasional (adj)",
+   "occasionally (adv)"
+  ],
+  "en": "We occasionally eat out.",
+  "enVi": "Thỉnh thoảng chúng tôi ăn ngoài.",
+  "en2": "She occasionally visits her grandparents.",
+  "enVi2": "Thỉnh thoảng cô ấy thăm ông bà.",
+  "syn": [
+   "sometimes|đôi khi"
+  ],
+  "ant": [
+   "frequently|thường xuyên"
+  ],
+  "id": "b1-045"
+ },
+ {
+  "root": "EASY",
+  "w": "ease",
+  "pos": "verb",
+  "ipa": "/iːz/",
+  "vi": "làm giảm, làm dịu",
+  "icon": "🚗",
+  "wf": "New measures have been introduced to ___ traffic congestion in the city.",
+  "wfVi": "Các biện pháp mới được đưa ra để giảm tắc nghẽn giao thông trong thành phố.",
+  "family": [
+   "easy (adj)",
+   "ease (v/n)",
+   "easily (adv)"
+  ],
+  "en": "This medicine will ease the pain.",
+  "enVi": "Thuốc này sẽ làm dịu cơn đau.",
+  "en2": "Talking can ease your stress.",
+  "enVi2": "Trò chuyện có thể làm giảm căng thẳng.",
+  "syn": [
+   "relieve|làm nhẹ"
+  ],
+  "ant": [
+   "worsen|làm tệ hơn"
+  ],
+  "id": "b1-046"
+ },
+ {
+  "root": "REPAIR",
+  "w": "irreparable",
+  "pos": "adj",
+  "ipa": "/ɪˈrep.ər.ə.bəl/",
+  "vi": "không thể sửa chữa/khắc phục",
+  "icon": "🌊",
+  "wf": "Unless the oil spill is contained, ___ damage will be done to the coastline.",
+  "wfVi": "Nếu sự cố tràn dầu không được khống chế, thiệt hại không thể khắc phục sẽ xảy ra với bờ biển.",
+  "family": [
+   "repair (v/n)",
+   "repairable (adj)",
+   "irreparable (adj)"
+  ],
+  "en": "The fire caused irreparable damage.",
+  "enVi": "Đám cháy gây ra thiệt hại không thể khắc phục.",
+  "en2": "Their friendship suffered irreparable harm.",
+  "enVi2": "Tình bạn của họ bị tổn hại không thể hàn gắn.",
+  "syn": [
+   "irreversible|không thể đảo ngược"
+  ],
+  "ant": [
+   "repairable|có thể sửa"
+  ],
+  "id": "b1-047"
+ },
+ {
+  "root": "CONSUME",
+  "w": "Consumers",
+  "pos": "noun",
+  "ipa": "/kənˈsjuː.məz/",
+  "vi": "người tiêu dùng",
+  "icon": "🛒",
+  "wf": "___ did not spend as much last quarter as analysts predicted.",
+  "wfVi": "Người tiêu dùng đã không chi tiêu nhiều như các nhà phân tích dự đoán trong quý trước.",
+  "family": [
+   "consume (v)",
+   "consumer (n)",
+   "consumption (n)"
+  ],
+  "en": "Consumers want better quality.",
+  "enVi": "Người tiêu dùng muốn chất lượng tốt hơn.",
+  "en2": "Consumers are spending less this year.",
+  "enVi2": "Người tiêu dùng chi tiêu ít hơn năm nay.",
+  "syn": [
+   "buyers|người mua"
+  ],
+  "ant": [
+   "producers|nhà sản xuất"
+  ],
+  "id": "b1-048"
+ },
+ {
+  "root": "JOY",
+  "w": "joyful",
+  "pos": "adj",
+  "ipa": "/ˈdʒɔɪ.fəl/",
+  "vi": "vui mừng, hân hoan",
+  "icon": "🎄",
+  "wf": "Christmas is such a ___ time of year.",
+  "wfVi": "Giáng sinh là khoảng thời gian thật vui mừng trong năm.",
+  "family": [
+   "joy (n)",
+   "joyful (adj)",
+   "joyfully (adv)"
+  ],
+  "en": "It was a joyful celebration.",
+  "enVi": "Đó là một buổi lễ vui mừng.",
+  "en2": "The children were joyful on the trip.",
+  "enVi2": "Bọn trẻ rất hân hoan trong chuyến đi.",
+  "syn": [
+   "happy|hạnh phúc"
+  ],
+  "ant": [
+   "sad|buồn"
+  ],
+  "id": "b1-049"
+ },
+ {
+  "root": "HOME",
+  "w": "homeless",
+  "pos": "adj",
+  "ipa": "/ˈhəʊm.ləs/",
+  "vi": "vô gia cư, mất nhà cửa",
+  "icon": "🏚️",
+  "wf": "The family were left ___ after the flood.",
+  "wfVi": "Gia đình bị mất nhà cửa sau trận lũ.",
+  "family": [
+   "home (n)",
+   "homeless (adj)",
+   "homelessness (n)"
+  ],
+  "en": "Many people became homeless after the war.",
+  "enVi": "Nhiều người trở nên vô gia cư sau chiến tranh.",
+  "en2": "The charity helps homeless families.",
+  "enVi2": "Tổ chức từ thiện giúp các gia đình vô gia cư.",
+  "syn": [],
+  "ant": [],
+  "id": "b1-050"
+ }
+]

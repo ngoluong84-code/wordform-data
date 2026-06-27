@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updated": "2026-06-26",
+  "batches": [
+    { "id": 1, "title": "Đợt 1 — Word Form (50 từ)", "url": "https://raw.githubusercontent.com/ngoluong84-code/wordform-data/main/batch1.json", "count": 50 }
+  ]
+}
