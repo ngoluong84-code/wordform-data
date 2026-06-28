@@ -1,0 +1,1398 @@
+[
+ {
+  "root": "TRADITION",
+  "w": "traditional",
+  "pos": "adj",
+  "ipa": "/trəˈdɪʃ.ən.əl/",
+  "vi": "truyền thống",
+  "icon": "🏫",
+  "wf": "The school uses a combination of modern and ___ methods for teaching reading.",
+  "wfVi": "Trường học kết hợp các phương pháp hiện đại và truyền thống để dạy đọc.",
+  "family": [
+   "tradition (n)|truyền thống",
+   "traditional (adj)|truyền thống",
+   "traditionally (adv)|theo truyền thống",
+   "traditionalist (n)|người theo truyền thống"
+  ],
+  "en": "She wore a traditional Vietnamese dress to the wedding.",
+  "enVi": "Cô ấy mặc áo dài truyền thống đi đám cưới.",
+  "en2": "Many traditional values are disappearing.",
+  "enVi2": "Nhiều giá trị truyền thống đang biến mất.",
+  "syn": ["conventional|theo lệ thường", "customary|theo thông lệ"],
+  "ant": ["modern|hiện đại", "contemporary|đương đại"],
+  "id": "b2-001",
+  "rootVi": "truyền thống, phong tục",
+  "famEx": [
+   {"form": "tradition", "en": "It's a family tradition to eat banh chung at Tet.", "vi": "Ăn bánh chưng ngày Tết là truyền thống gia đình."},
+   {"form": "traditionally", "en": "Women are traditionally expected to cook.", "vi": "Theo truyền thống, phụ nữ được kỳ vọng nấu ăn."}
+  ]
+ },
+ {
+  "root": "COMPLAIN",
+  "w": "complaint",
+  "pos": "noun",
+  "ipa": "/kəmˈpleɪnt/",
+  "vi": "lời than phiền, đơn khiếu nại",
+  "icon": "📣",
+  "wf": "I've made a ___ to the police about the noise.",
+  "wfVi": "Tôi đã làm đơn khiếu nại lên cảnh sát về tiếng ồn.",
+  "family": [
+   "complain (v)|than phiền",
+   "complaint (n)|lời than phiền",
+   "complainer (n)|người hay than phiền"
+  ],
+  "en": "We received several complaints about the service.",
+  "enVi": "Chúng tôi nhận được vài lời phàn nàn về dịch vụ.",
+  "en2": "His main complaint was the lack of sleep.",
+  "enVi2": "Lời than phiền chính của anh ấy là thiếu ngủ.",
+  "syn": ["grievance|sự phàn nàn", "objection|sự phản đối"],
+  "ant": ["praise|lời khen", "compliment|lời khen"],
+  "id": "b2-002",
+  "rootVi": "than phiền, phàn nàn",
+  "famEx": [
+   {"form": "complain", "en": "Customers complain about the long wait.", "vi": "Khách hàng than phiền về việc chờ lâu."},
+   {"form": "complainer", "en": "He's such a complainer.", "vi": "Anh ấy rất hay than phiền."}
+  ]
+ },
+ {
+  "root": "ENJOY",
+  "w": "enjoyment",
+  "pos": "noun",
+  "ipa": "/ɪnˈdʒɔɪ.mənt/",
+  "vi": "sự vui thích, niềm vui",
+  "icon": "😊",
+  "wf": "I get a lot of ___ from my grandchildren.",
+  "wfVi": "Tôi nhận được rất nhiều niềm vui từ các cháu của mình.",
+  "family": [
+   "enjoy (v)|thích, tận hưởng",
+   "enjoyment (n)|sự vui thích",
+   "enjoyable (adj)|thú vị",
+   "enjoyably (adv)|một cách thú vị"
+  ],
+  "en": "Reading brings me great enjoyment.",
+  "enVi": "Đọc sách mang lại cho tôi niềm vui lớn.",
+  "en2": "She finds enjoyment in simple things.",
+  "enVi2": "Cô ấy tìm thấy niềm vui ở những điều giản dị.",
+  "syn": ["pleasure|niềm vui", "delight|sự thích thú"],
+  "ant": ["displeasure|sự không hài lòng"],
+  "id": "b2-003",
+  "rootVi": "thích, tận hưởng",
+  "famEx": [
+   {"form": "enjoy", "en": "I enjoy listening to music.", "vi": "Tôi thích nghe nhạc."},
+   {"form": "enjoyable", "en": "We had an enjoyable evening.", "vi": "Chúng tôi có một buổi tối thú vị."}
+  ]
+ },
+ {
+  "root": "SHORT",
+  "w": "shortage",
+  "pos": "noun",
+  "ipa": "/ˈʃɔː.tɪdʒ/",
+  "vi": "sự thiếu hụt",
+  "icon": "💧",
+  "wf": "The recent heavy rains have helped to ease the water ___.",
+  "wfVi": "Những trận mưa lớn gần đây đã giúp giảm bớt tình trạng thiếu nước.",
+  "family": [
+   "short (adj)|ngắn, thiếu",
+   "shortage (n)|sự thiếu hụt",
+   "shorten (v)|làm ngắn lại",
+   "shortly (adv)|sớm, chẳng mấy chốc"
+  ],
+  "en": "There is a shortage of food in the area.",
+  "enVi": "Có tình trạng thiếu lương thực ở khu vực này.",
+  "en2": "The hospital faces a staff shortage.",
+  "enVi2": "Bệnh viện đang đối mặt với tình trạng thiếu nhân viên.",
+  "syn": ["lack|sự thiếu", "deficit|sự thiếu hụt"],
+  "ant": ["abundance|sự dồi dào", "surplus|sự dư thừa"],
+  "id": "b2-004",
+  "rootVi": "ngắn, thiếu",
+  "famEx": [
+   {"form": "short", "en": "We are short of time.", "vi": "Chúng ta đang thiếu thời gian."},
+   {"form": "shorten", "en": "Can you shorten this article?", "vi": "Bạn có thể rút ngắn bài này không?"}
+  ]
+ },
+ {
+  "root": "WARN",
+  "w": "warning",
+  "pos": "noun",
+  "ipa": "/ˈwɔː.nɪŋ/",
+  "vi": "lời cảnh báo",
+  "icon": "⚠️",
+  "wf": "Doctors issued a ___ against eating any fish caught in the river.",
+  "wfVi": "Các bác sĩ đã đưa ra cảnh báo không nên ăn cá bắt từ sông.",
+  "family": [
+   "warn (v)|cảnh báo",
+   "warning (n)|lời cảnh báo",
+   "warningly (adv)|một cách cảnh báo"
+  ],
+  "en": "She gave him a warning about the dangers.",
+  "enVi": "Cô ấy cảnh báo anh ta về những nguy hiểm.",
+  "en2": "The storm came without warning.",
+  "enVi2": "Cơn bão ập đến mà không có cảnh báo.",
+  "syn": ["caution|sự cảnh báo", "alert|cảnh báo"],
+  "ant": [],
+  "id": "b2-005",
+  "rootVi": "cảnh báo",
+  "famEx": [
+   {"form": "warn", "en": "I warned you not to go there.", "vi": "Tôi đã cảnh báo bạn đừng đến đó."},
+   {"form": "warn", "en": "Police warned residents to stay indoors.", "vi": "Cảnh sát cảnh báo cư dân ở trong nhà."}
+  ]
+ },
+ {
+  "root": "LIKE",
+  "w": "disliked",
+  "pos": "verb",
+  "ipa": "/dɪsˈlaɪkt/",
+  "vi": "không thích, ghét",
+  "icon": "🙅",
+  "wf": "He ___ it when she behaved badly in front of his mother.",
+  "wfVi": "Anh ấy không thích khi cô ấy cư xử tệ trước mặt mẹ anh.",
+  "family": [
+   "like (v)|thích",
+   "dislike (v/n)|không thích",
+   "disliked (v)|đã không thích",
+   "likable (adj)|đáng mến"
+  ],
+  "en": "She disliked the new manager from the start.",
+  "enVi": "Cô ấy không thích người quản lý mới ngay từ đầu.",
+  "en2": "He disliked being interrupted.",
+  "enVi2": "Anh ấy không thích bị ngắt lời.",
+  "syn": ["hated|ghét", "detested|căm ghét"],
+  "ant": ["liked|thích", "loved|yêu thích"],
+  "id": "b2-006",
+  "rootVi": "thích",
+  "famEx": [
+   {"form": "like", "en": "I like coffee in the morning.", "vi": "Tôi thích cà phê buổi sáng."},
+   {"form": "dislike", "en": "She has a strong dislike of cats.", "vi": "Cô ấy rất ghét mèo."}
+  ]
+ },
+ {
+  "root": "INDUSTRY",
+  "w": "industrialize",
+  "pos": "verb",
+  "ipa": "/ɪnˈdʌs.tri.ə.laɪz/",
+  "vi": "công nghiệp hóa",
+  "icon": "🏭",
+  "wf": "The southern part of the country was slow to ___.",
+  "wfVi": "Miền nam của đất nước chậm trong việc công nghiệp hóa.",
+  "family": [
+   "industry (n)|công nghiệp",
+   "industrial (adj)|thuộc công nghiệp",
+   "industrialize (v)|công nghiệp hóa",
+   "industrialization (n)|sự công nghiệp hóa"
+  ],
+  "en": "Many countries tried to industrialize in the 20th century.",
+  "enVi": "Nhiều nước đã cố gắng công nghiệp hóa vào thế kỷ 20.",
+  "en2": "The government wants to industrialize rural areas.",
+  "enVi2": "Chính phủ muốn công nghiệp hóa các vùng nông thôn.",
+  "syn": ["modernize|hiện đại hóa"],
+  "ant": [],
+  "id": "b2-007",
+  "rootVi": "công nghiệp, ngành công nghiệp",
+  "famEx": [
+   {"form": "industry", "en": "The car industry is growing.", "vi": "Ngành công nghiệp ô tô đang phát triển."},
+   {"form": "industrial", "en": "This is an industrial zone.", "vi": "Đây là một khu công nghiệp."}
+  ]
+ },
+ {
+  "root": "POISON",
+  "w": "poisonous",
+  "pos": "adj",
+  "ipa": "/ˈpɔɪ.zən.əs/",
+  "vi": "có độc, độc hại",
+  "icon": "☠️",
+  "wf": "The leaves of certain trees are ___ to cattle.",
+  "wfVi": "Lá của một số loài cây có độc đối với gia súc.",
+  "family": [
+   "poison (n/v)|chất độc; đầu độc",
+   "poisonous (adj)|có độc",
+   "poisoning (n)|sự ngộ độc"
+  ],
+  "en": "Some mushrooms are highly poisonous.",
+  "enVi": "Một số loại nấm rất độc.",
+  "en2": "The snake's bite is poisonous.",
+  "enVi2": "Vết cắn của con rắn này có độc.",
+  "syn": ["toxic|độc hại", "venomous|có nọc độc"],
+  "ant": ["harmless|vô hại", "safe|an toàn"],
+  "id": "b2-008",
+  "rootVi": "chất độc, thuốc độc",
+  "famEx": [
+   {"form": "poison", "en": "Rat poison can kill pets.", "vi": "Thuốc diệt chuột có thể giết thú cưng."},
+   {"form": "poisoning", "en": "He died of food poisoning.", "vi": "Anh ấy chết vì ngộ độc thực phẩm."}
+  ]
+ },
+ {
+  "root": "FREQUENT",
+  "w": "frequently",
+  "pos": "adv",
+  "ipa": "/ˈfriː.kwənt.li/",
+  "vi": "thường xuyên",
+  "icon": "✈️",
+  "wf": "Her father, a pilot, was ___ absent from home.",
+  "wfVi": "Cha cô ấy, một phi công, thường xuyên vắng nhà.",
+  "family": [
+   "frequent (adj)|thường xuyên",
+   "frequently (adv)|một cách thường xuyên",
+   "frequency (n)|tần suất"
+  ],
+  "en": "He frequently visits his grandparents.",
+  "enVi": "Anh ấy thường xuyên đến thăm ông bà.",
+  "en2": "This bus runs frequently.",
+  "enVi2": "Xe buýt này chạy thường xuyên.",
+  "syn": ["often|thường", "regularly|đều đặn"],
+  "ant": ["rarely|hiếm khi", "seldom|hiếm khi"],
+  "id": "b2-009",
+  "rootVi": "thường xuyên",
+  "famEx": [
+   {"form": "frequent", "en": "He is a frequent visitor here.", "vi": "Anh ấy là khách quen ở đây."},
+   {"form": "frequency", "en": "The frequency of accidents has increased.", "vi": "Tần suất tai nạn đã tăng lên."}
+  ]
+ },
+ {
+  "root": "STORM",
+  "w": "stormy",
+  "pos": "adj",
+  "ipa": "/ˈstɔː.mi/",
+  "vi": "có bão, giông tố",
+  "icon": "⛈️",
+  "wf": "The sky was dark and ___.",
+  "wfVi": "Bầu trời tối tăm và đầy giông bão.",
+  "family": [
+   "storm (n)|cơn bão",
+   "stormy (adj)|có bão",
+   "stormily (adv)|một cách dữ dội"
+  ],
+  "en": "It was a stormy night at sea.",
+  "enVi": "Đó là một đêm bão tố trên biển.",
+  "en2": "They had a stormy relationship.",
+  "enVi2": "Họ có một mối quan hệ đầy sóng gió.",
+  "syn": ["turbulent|hỗn loạn", "tempestuous|đầy bão táp"],
+  "ant": ["calm|yên lặng", "peaceful|yên bình"],
+  "id": "b2-010",
+  "rootVi": "cơn bão",
+  "famEx": [
+   {"form": "storm", "en": "The storm destroyed many houses.", "vi": "Cơn bão phá hủy nhiều ngôi nhà."},
+   {"form": "storm", "en": "A storm is coming tonight.", "vi": "Đêm nay sẽ có bão."}
+  ]
+ },
+ {
+  "root": "SOLID",
+  "w": "solidifies",
+  "pos": "verb",
+  "ipa": "/səˈlɪd.ɪ.faɪz/",
+  "vi": "đông cứng lại, hóa rắn",
+  "icon": "🪨",
+  "wf": "Molten volcanic lava ___ as it cools.",
+  "wfVi": "Dung nham núi lửa nóng chảy đông cứng lại khi nguội đi.",
+  "family": [
+   "solid (adj/n)|rắn; vật rắn",
+   "solidify (v)|làm đông cứng",
+   "solidly (adv)|một cách vững chắc",
+   "solidity (n)|sự rắn chắc"
+  ],
+  "en": "Water solidifies into ice at 0°C.",
+  "enVi": "Nước đông thành đá ở 0°C.",
+  "en2": "The plan began to solidify after the meeting.",
+  "enVi2": "Kế hoạch bắt đầu rõ ràng hơn sau cuộc họp.",
+  "syn": ["harden|làm cứng lại", "set|đông lại"],
+  "ant": ["melt|tan chảy", "liquefy|hóa lỏng"],
+  "id": "b2-011",
+  "rootVi": "rắn chắc, đặc",
+  "famEx": [
+   {"form": "solid", "en": "Ice is solid water.", "vi": "Đá là nước ở thể rắn."},
+   {"form": "solidly", "en": "The team played solidly all match.", "vi": "Đội bóng chơi chắc chắn suốt trận."}
+  ]
+ },
+ {
+  "root": "PROTECT",
+  "w": "protection",
+  "pos": "noun",
+  "ipa": "/prəˈtek.ʃən/",
+  "vi": "sự bảo vệ",
+  "icon": "🛡️",
+  "wf": "His straw hat offered some ___ from the sun.",
+  "wfVi": "Chiếc mũ rơm của anh ấy che chắn phần nào khỏi nắng.",
+  "family": [
+   "protect (v)|bảo vệ",
+   "protection (n)|sự bảo vệ",
+   "protective (adj)|có tính bảo vệ",
+   "protector (n)|người bảo vệ"
+  ],
+  "en": "Wearing a helmet provides protection for your head.",
+  "enVi": "Đội mũ bảo hiểm bảo vệ đầu của bạn.",
+  "en2": "Children need their parents' protection.",
+  "enVi2": "Trẻ em cần sự bảo vệ của cha mẹ.",
+  "syn": ["defence|sự phòng vệ", "shield|sự che chắn"],
+  "ant": ["exposure|sự phơi bày", "vulnerability|sự dễ tổn thương"],
+  "id": "b2-012",
+  "rootVi": "bảo vệ",
+  "famEx": [
+   {"form": "protect", "en": "Police protect the public.", "vi": "Cảnh sát bảo vệ người dân."},
+   {"form": "protective", "en": "She is very protective of her kids.", "vi": "Cô ấy rất bảo bọc các con."}
+  ]
+ },
+ {
+  "root": "FASHION",
+  "w": "fashionably",
+  "pos": "adv",
+  "ipa": "/ˈfæʃ.ən.ə.bli/",
+  "vi": "một cách thời trang, sành điệu",
+  "icon": "👗",
+  "wf": "They stay at good hotels, drive smart cars, and dress ___.",
+  "wfVi": "Họ ở khách sạn sang, lái xe đẹp và ăn mặc sành điệu.",
+  "family": [
+   "fashion (n)|thời trang",
+   "fashionable (adj)|hợp thời trang",
+   "fashionably (adv)|một cách hợp thời trang",
+   "fashionista (n)|tín đồ thời trang"
+  ],
+  "en": "She was fashionably dressed for the party.",
+  "enVi": "Cô ấy ăn mặc sành điệu cho bữa tiệc.",
+  "en2": "He arrived fashionably late.",
+  "enVi2": "Anh ấy đến muộn một cách 'sành điệu'.",
+  "syn": ["stylishly|sành điệu", "smartly|lịch lãm"],
+  "ant": ["unfashionably|không hợp mốt"],
+  "id": "b2-013",
+  "rootVi": "thời trang, mốt",
+  "famEx": [
+   {"form": "fashion", "en": "Paris is the capital of fashion.", "vi": "Paris là kinh đô thời trang."},
+   {"form": "fashionable", "en": "This style is very fashionable now.", "vi": "Kiểu này đang rất hợp mốt."}
+  ]
+ },
+ {
+  "root": "HABIT",
+  "w": "habitual",
+  "pos": "adj",
+  "ipa": "/həˈbɪtʃ.u.əl/",
+  "vi": "theo thói quen, quen thuộc",
+  "icon": "🍵",
+  "wf": "She sat sipping her ___ cup of tea.",
+  "wfVi": "Cô ấy ngồi nhấm nháp tách trà quen thuộc.",
+  "family": [
+   "habit (n)|thói quen",
+   "habitual (adj)|theo thói quen",
+   "habitually (adv)|theo thói quen",
+   "habituate (v)|làm quen"
+  ],
+  "en": "He is a habitual smoker.",
+  "enVi": "Ông ấy là người hút thuốc theo thói quen.",
+  "en2": "Reading before bed is her habitual practice.",
+  "enVi2": "Đọc sách trước khi ngủ là thói quen của cô ấy.",
+  "syn": ["customary|theo lệ thường", "routine|thường lệ"],
+  "ant": ["occasional|thi thoảng", "unusual|bất thường"],
+  "id": "b2-014",
+  "rootVi": "thói quen",
+  "famEx": [
+   {"form": "habit", "en": "Smoking is a bad habit.", "vi": "Hút thuốc là thói xấu."},
+   {"form": "habitually", "en": "He habitually arrives late.", "vi": "Anh ấy thường xuyên đến muộn."}
+  ]
+ },
+ {
+  "root": "SURPRISE",
+  "w": "surprisingly",
+  "pos": "adv",
+  "ipa": "/səˈpraɪ.zɪŋ.li/",
+  "vi": "một cách đáng ngạc nhiên",
+  "icon": "😮",
+  "wf": "The restaurant turned out to be ___ good.",
+  "wfVi": "Nhà hàng hóa ra ngon một cách đáng ngạc nhiên.",
+  "family": [
+   "surprise (n/v)|sự ngạc nhiên; làm ngạc nhiên",
+   "surprised (adj)|ngạc nhiên",
+   "surprising (adj)|đáng ngạc nhiên",
+   "surprisingly (adv)|một cách đáng ngạc nhiên"
+  ],
+  "en": "The exam was surprisingly easy.",
+  "enVi": "Bài thi dễ một cách đáng ngạc nhiên.",
+  "en2": "Surprisingly, no one was hurt.",
+  "enVi2": "Điều ngạc nhiên là không ai bị thương.",
+  "syn": ["unexpectedly|bất ngờ", "remarkably|đáng kể"],
+  "ant": ["predictably|như dự đoán"],
+  "id": "b2-015",
+  "rootVi": "ngạc nhiên",
+  "famEx": [
+   {"form": "surprise", "en": "What a nice surprise!", "vi": "Thật là một bất ngờ thú vị!"},
+   {"form": "surprising", "en": "His decision was surprising.", "vi": "Quyết định của anh ấy thật bất ngờ."}
+  ]
+ },
+ {
+  "root": "BELIEVE",
+  "w": "disbelief",
+  "pos": "noun",
+  "ipa": "/ˌdɪs.bɪˈliːf/",
+  "vi": "sự không tin, hoài nghi",
+  "icon": "😨",
+  "wf": "To my horrified ___, the animal was running in my direction.",
+  "wfVi": "Trong sự kinh hoàng không thể tin nổi, con vật đang chạy về phía tôi.",
+  "family": [
+   "believe (v)|tin",
+   "belief (n)|niềm tin",
+   "disbelief (n)|sự không tin",
+   "unbelievable (adj)|khó tin"
+  ],
+  "en": "She stared at him in disbelief.",
+  "enVi": "Cô ấy nhìn anh ta không thể tin nổi.",
+  "en2": "His story was met with disbelief.",
+  "enVi2": "Câu chuyện của anh ta bị hoài nghi.",
+  "syn": ["doubt|sự nghi ngờ", "skepticism|chủ nghĩa hoài nghi"],
+  "ant": ["belief|niềm tin", "faith|đức tin"],
+  "id": "b2-016",
+  "rootVi": "tin tưởng",
+  "famEx": [
+   {"form": "believe", "en": "I believe you.", "vi": "Tôi tin bạn."},
+   {"form": "unbelievable", "en": "The view is unbelievable.", "vi": "Khung cảnh không thể tin nổi."}
+  ]
+ },
+ {
+  "root": "VOLUNTEER",
+  "w": "voluntarily",
+  "pos": "adv",
+  "ipa": "/ˌvɒl.ənˈter.əl.i/",
+  "vi": "một cách tự nguyện",
+  "icon": "🤝",
+  "wf": "He was not asked to leave – he went ___.",
+  "wfVi": "Anh ấy không bị yêu cầu rời đi – anh ấy đi một cách tự nguyện.",
+  "family": [
+   "volunteer (n/v)|tình nguyện viên; tình nguyện",
+   "voluntary (adj)|tự nguyện",
+   "voluntarily (adv)|một cách tự nguyện"
+  ],
+  "en": "She voluntarily helped clean up the park.",
+  "enVi": "Cô ấy tự nguyện giúp dọn dẹp công viên.",
+  "en2": "He voluntarily resigned from his position.",
+  "enVi2": "Anh ấy tự nguyện từ chức.",
+  "syn": ["willingly|sẵn lòng", "freely|tự do"],
+  "ant": ["unwillingly|miễn cưỡng", "forcibly|bắt buộc"],
+  "id": "b2-017",
+  "rootVi": "tình nguyện",
+  "famEx": [
+   {"form": "volunteer", "en": "She works as a volunteer.", "vi": "Cô ấy làm tình nguyện viên."},
+   {"form": "voluntary", "en": "Attendance is voluntary.", "vi": "Việc tham dự là tự nguyện."}
+  ]
+ },
+ {
+  "root": "STEAM",
+  "w": "steamy",
+  "pos": "adj",
+  "ipa": "/ˈstiː.mi/",
+  "vi": "ẩm và nóng, đầy hơi nước",
+  "icon": "♨️",
+  "wf": "It was cold in London compared with the ___ heat of Tokyo.",
+  "wfVi": "Thời tiết London lạnh hơn so với cái nóng ẩm của Tokyo.",
+  "family": [
+   "steam (n/v)|hơi nước; xông hơi",
+   "steamy (adj)|đầy hơi nước, nóng ẩm",
+   "steamer (n)|nồi hấp"
+  ],
+  "en": "The bathroom was steamy after the shower.",
+  "enVi": "Phòng tắm đầy hơi nước sau khi tắm.",
+  "en2": "We walked through the steamy jungle.",
+  "enVi2": "Chúng tôi đi qua khu rừng nhiệt đới nóng ẩm.",
+  "syn": ["humid|ẩm ướt", "muggy|oi bức"],
+  "ant": ["dry|khô", "cool|mát"],
+  "id": "b2-018",
+  "rootVi": "hơi nước",
+  "famEx": [
+   {"form": "steam", "en": "Steam rose from the cup.", "vi": "Hơi nước bốc lên từ cốc."},
+   {"form": "steamer", "en": "Cook the vegetables in a steamer.", "vi": "Hấp rau bằng nồi hấp."}
+  ]
+ },
+ {
+  "root": "ACT",
+  "w": "interact",
+  "pos": "verb",
+  "ipa": "/ˌɪn.təˈrækt/",
+  "vi": "tương tác",
+  "icon": "💬",
+  "wf": "Teachers have a limited amount of time to ___ with each child.",
+  "wfVi": "Giáo viên có ít thời gian để tương tác với từng học sinh.",
+  "family": [
+   "act (v/n)|hành động",
+   "action (n)|hành động",
+   "interact (v)|tương tác",
+   "interaction (n)|sự tương tác",
+   "interactive (adj)|có tính tương tác"
+  ],
+  "en": "Children learn by interacting with others.",
+  "enVi": "Trẻ học bằng cách tương tác với người khác.",
+  "en2": "The two chemicals interact to form a new substance.",
+  "enVi2": "Hai chất hóa học tương tác tạo ra chất mới.",
+  "syn": ["communicate|giao tiếp", "engage|tham gia"],
+  "ant": ["ignore|phớt lờ"],
+  "id": "b2-019",
+  "rootVi": "hành động",
+  "famEx": [
+   {"form": "interaction", "en": "Social interaction is important.", "vi": "Tương tác xã hội rất quan trọng."},
+   {"form": "interactive", "en": "It's an interactive learning app.", "vi": "Đây là app học có tính tương tác."}
+  ]
+ },
+ {
+  "root": "ADD",
+  "w": "additional",
+  "pos": "adj",
+  "ipa": "/əˈdɪʃ.ən.əl/",
+  "vi": "thêm vào, bổ sung",
+  "icon": "➕",
+  "wf": "The government provided an ___ £25 million to expand the service.",
+  "wfVi": "Chính phủ cấp thêm 25 triệu bảng để mở rộng dịch vụ.",
+  "family": [
+   "add (v)|thêm vào",
+   "addition (n)|sự thêm vào",
+   "additional (adj)|bổ sung",
+   "additionally (adv)|ngoài ra"
+  ],
+  "en": "There will be no additional charges.",
+  "enVi": "Sẽ không có phí phụ thu nào.",
+  "en2": "We need additional information.",
+  "enVi2": "Chúng tôi cần thêm thông tin.",
+  "syn": ["extra|thêm", "supplementary|bổ sung"],
+  "ant": ["main|chính"],
+  "id": "b2-020",
+  "rootVi": "thêm vào",
+  "famEx": [
+   {"form": "add", "en": "Add some sugar, please.", "vi": "Thêm chút đường nhé."},
+   {"form": "addition", "en": "She is a great addition to the team.", "vi": "Cô ấy là sự bổ sung tuyệt vời cho đội."}
+  ]
+ },
+ {
+  "root": "CENTRE",
+  "w": "central",
+  "pos": "adj",
+  "ipa": "/ˈsen.trəl/",
+  "vi": "ở trung tâm, trung tâm",
+  "icon": "📍",
+  "wf": "There will be rain later in ___ and eastern parts of the country.",
+  "wfVi": "Sẽ có mưa muộn ở khu vực trung tâm và miền đông của đất nước.",
+  "family": [
+   "centre / center (n)|trung tâm",
+   "central (adj)|ở trung tâm",
+   "centrally (adv)|ở trung tâm",
+   "centralize (v)|tập trung hóa"
+  ],
+  "en": "The hotel is in a central location.",
+  "enVi": "Khách sạn ở vị trí trung tâm.",
+  "en2": "Education plays a central role in society.",
+  "enVi2": "Giáo dục đóng vai trò trung tâm trong xã hội.",
+  "syn": ["middle|ở giữa", "main|chính"],
+  "ant": ["peripheral|ngoại vi", "outer|bên ngoài"],
+  "id": "b2-021",
+  "rootVi": "trung tâm",
+  "famEx": [
+   {"form": "centre", "en": "Meet me at the city centre.", "vi": "Gặp tôi ở trung tâm thành phố."},
+   {"form": "centralize", "en": "They centralized the operations.", "vi": "Họ tập trung hóa hoạt động."}
+  ]
+ },
+ {
+  "root": "BAD",
+  "w": "worsened",
+  "pos": "verb",
+  "ipa": "/ˈwɜː.sənd/",
+  "vi": "trở nên tồi tệ hơn",
+  "icon": "📉",
+  "wf": "Her symptoms have ___ considerably since we last saw her.",
+  "wfVi": "Triệu chứng của cô ấy đã trở nên tồi tệ hơn nhiều kể từ lần cuối chúng ta gặp.",
+  "family": [
+   "bad (adj)|xấu",
+   "worse (adj/adv)|tồi tệ hơn",
+   "worst (adj/adv)|tệ nhất",
+   "worsen (v)|trở nên tệ hơn"
+  ],
+  "en": "The weather worsened overnight.",
+  "enVi": "Thời tiết trở nên xấu hơn qua đêm.",
+  "en2": "His health has worsened recently.",
+  "enVi2": "Sức khỏe của anh ấy gần đây xấu đi.",
+  "syn": ["deteriorated|xấu đi", "declined|sa sút"],
+  "ant": ["improved|cải thiện", "recovered|hồi phục"],
+  "id": "b2-022",
+  "rootVi": "xấu, tồi tệ",
+  "famEx": [
+   {"form": "bad", "en": "This is bad news.", "vi": "Đây là tin xấu."},
+   {"form": "worst", "en": "It was the worst day ever.", "vi": "Đó là ngày tệ nhất."}
+  ]
+ },
+ {
+  "root": "POEM",
+  "w": "poets",
+  "pos": "noun",
+  "ipa": "/ˈpəʊ.ɪts/",
+  "vi": "các nhà thơ",
+  "icon": "📜",
+  "wf": "These river banks have inspired ___ for many centuries.",
+  "wfVi": "Những bờ sông này đã truyền cảm hứng cho các nhà thơ qua nhiều thế kỷ.",
+  "family": [
+   "poem (n)|bài thơ",
+   "poet (n)|nhà thơ",
+   "poetry (n)|thơ ca",
+   "poetic (adj)|mang chất thơ"
+  ],
+  "en": "Many poets have written about love.",
+  "enVi": "Nhiều nhà thơ đã viết về tình yêu.",
+  "en2": "She is one of the greatest poets of her time.",
+  "enVi2": "Bà là một trong những nhà thơ vĩ đại nhất thời mình.",
+  "syn": ["writers|nhà văn", "bards|thi sĩ"],
+  "ant": [],
+  "id": "b2-023",
+  "rootVi": "bài thơ",
+  "famEx": [
+   {"form": "poem", "en": "She wrote a poem about her mother.", "vi": "Cô ấy viết bài thơ về mẹ."},
+   {"form": "poetry", "en": "I enjoy reading poetry.", "vi": "Tôi thích đọc thơ."}
+  ]
+ },
+ {
+  "root": "NORTH",
+  "w": "northwards",
+  "pos": "adv",
+  "ipa": "/ˈnɔːθ.wədz/",
+  "vi": "về phía bắc",
+  "icon": "🧭",
+  "wf": "The dust from the volcano spread ___.",
+  "wfVi": "Bụi từ núi lửa lan về phía bắc.",
+  "family": [
+   "north (n/adj)|phía bắc",
+   "northern (adj)|thuộc phía bắc",
+   "northwards / northward (adv)|về phía bắc",
+   "northerner (n)|người miền bắc"
+  ],
+  "en": "The birds fly northwards in spring.",
+  "enVi": "Đàn chim bay về phía bắc vào mùa xuân.",
+  "en2": "We headed northwards along the coast.",
+  "enVi2": "Chúng tôi đi về phía bắc dọc bờ biển.",
+  "syn": ["northward|về phía bắc"],
+  "ant": ["southwards|về phía nam"],
+  "id": "b2-024",
+  "rootVi": "phía bắc",
+  "famEx": [
+   {"form": "north", "en": "Hanoi is in the north of Vietnam.", "vi": "Hà Nội ở miền bắc Việt Nam."},
+   {"form": "northern", "en": "Northern Europe is cold.", "vi": "Bắc Âu thì lạnh."}
+  ]
+ },
+ {
+  "root": "CONSUME",
+  "w": "consumers",
+  "pos": "noun",
+  "ipa": "/kənˈsjuː.məz/",
+  "vi": "người tiêu dùng",
+  "icon": "🛒",
+  "wf": "Health-conscious ___ want more information about the food they buy.",
+  "wfVi": "Người tiêu dùng quan tâm đến sức khỏe muốn biết nhiều hơn về thực phẩm họ mua.",
+  "family": [
+   "consume (v)|tiêu thụ",
+   "consumer (n)|người tiêu dùng",
+   "consumption (n)|sự tiêu thụ",
+   "consumable (adj)|có thể tiêu thụ"
+  ],
+  "en": "Consumers have many choices today.",
+  "enVi": "Người tiêu dùng có nhiều lựa chọn ngày nay.",
+  "en2": "The new law protects consumers.",
+  "enVi2": "Luật mới bảo vệ người tiêu dùng.",
+  "syn": ["buyers|người mua", "customers|khách hàng"],
+  "ant": ["producers|nhà sản xuất", "sellers|người bán"],
+  "id": "b2-025",
+  "rootVi": "tiêu thụ",
+  "famEx": [
+   {"form": "consume", "en": "Americans consume a lot of meat.", "vi": "Người Mỹ tiêu thụ nhiều thịt."},
+   {"form": "consumption", "en": "Energy consumption is rising.", "vi": "Tiêu thụ năng lượng đang tăng."}
+  ]
+ },
+ {
+  "root": "BENEFIT",
+  "w": "beneficial",
+  "pos": "adj",
+  "ipa": "/ˌben.ɪˈfɪʃ.əl/",
+  "vi": "có lợi",
+  "icon": "🥗",
+  "wf": "A good diet is ___ to health.",
+  "wfVi": "Một chế độ ăn uống tốt có lợi cho sức khỏe.",
+  "family": [
+   "benefit (n/v)|lợi ích; có lợi",
+   "beneficial (adj)|có lợi",
+   "beneficially (adv)|một cách có lợi",
+   "beneficiary (n)|người thụ hưởng"
+  ],
+  "en": "Exercise is beneficial for the heart.",
+  "enVi": "Tập thể dục có lợi cho tim.",
+  "en2": "The new policy will be beneficial to many.",
+  "enVi2": "Chính sách mới sẽ có lợi cho nhiều người.",
+  "syn": ["helpful|hữu ích", "advantageous|có lợi"],
+  "ant": ["harmful|có hại", "detrimental|gây hại"],
+  "id": "b2-026",
+  "rootVi": "lợi ích",
+  "famEx": [
+   {"form": "benefit", "en": "There are many benefits to exercise.", "vi": "Tập thể dục có nhiều lợi ích."},
+   {"form": "beneficiary", "en": "She is the main beneficiary of the will.", "vi": "Cô ấy là người thụ hưởng chính."}
+  ]
+ },
+ {
+  "root": "COMFORT",
+  "w": "comfortable",
+  "pos": "adj",
+  "ipa": "/ˈkʌmf.tə.bəl/",
+  "vi": "thoải mái",
+  "icon": "🛏️",
+  "wf": "I couldn't sleep because the bed was so ___.",
+  "wfVi": "Tôi không ngủ được vì giường quá... (ngữ cảnh: không thoải mái) — đáp án: uncomfortable / comfortable tùy ngữ cảnh.",
+  "family": [
+   "comfort (n/v)|sự thoải mái; an ủi",
+   "comfortable (adj)|thoải mái",
+   "comfortably (adv)|một cách thoải mái",
+   "uncomfortable (adj)|không thoải mái"
+  ],
+  "en": "This chair is very comfortable.",
+  "enVi": "Chiếc ghế này rất thoải mái.",
+  "en2": "Make yourself comfortable.",
+  "enVi2": "Hãy cứ thoải mái nhé.",
+  "syn": ["cozy|ấm cúng", "snug|thoải mái"],
+  "ant": ["uncomfortable|không thoải mái"],
+  "id": "b2-027",
+  "rootVi": "thoải mái, an ủi",
+  "famEx": [
+   {"form": "comfort", "en": "She offered words of comfort.", "vi": "Cô ấy nói lời an ủi."},
+   {"form": "comfortably", "en": "He passed the exam comfortably.", "vi": "Anh ấy thi đỗ một cách dễ dàng."}
+  ]
+ },
+ {
+  "root": "QUALIFY",
+  "w": "qualified",
+  "pos": "adj",
+  "ipa": "/ˈkwɒl.ɪ.faɪd/",
+  "vi": "có đủ trình độ, đủ tiêu chuẩn",
+  "icon": "🎓",
+  "wf": "She's extremely well ___ for the job.",
+  "wfVi": "Cô ấy có trình độ rất phù hợp cho công việc.",
+  "family": [
+   "qualify (v)|đủ điều kiện",
+   "qualified (adj)|đủ trình độ",
+   "qualification (n)|bằng cấp",
+   "qualifier (n)|vòng loại"
+  ],
+  "en": "He is a qualified teacher.",
+  "enVi": "Anh ấy là giáo viên có bằng cấp.",
+  "en2": "Only qualified candidates may apply.",
+  "enVi2": "Chỉ ứng viên đủ trình độ mới được nộp đơn.",
+  "syn": ["competent|có năng lực", "trained|được đào tạo"],
+  "ant": ["unqualified|không đủ trình độ"],
+  "id": "b2-028",
+  "rootVi": "đủ điều kiện",
+  "famEx": [
+   {"form": "qualify", "en": "She qualified as a doctor last year.", "vi": "Cô ấy lấy bằng bác sĩ năm ngoái."},
+   {"form": "qualification", "en": "What qualifications do you have?", "vi": "Bạn có bằng cấp gì?"}
+  ]
+ },
+ {
+  "root": "REPUTE",
+  "w": "reputation",
+  "pos": "noun",
+  "ipa": "/ˌrep.jʊˈteɪ.ʃən/",
+  "vi": "danh tiếng",
+  "icon": "🏆",
+  "wf": "She soon established a ___ as a first-class cook.",
+  "wfVi": "Cô ấy nhanh chóng tạo dựng danh tiếng là một đầu bếp hạng nhất.",
+  "family": [
+   "repute (n)|danh tiếng",
+   "reputable (adj)|có uy tín",
+   "reputation (n)|danh tiếng",
+   "reputed (adj)|được cho là"
+  ],
+  "en": "The company has a good reputation.",
+  "enVi": "Công ty có danh tiếng tốt.",
+  "en2": "He damaged his reputation by lying.",
+  "enVi2": "Anh ta làm hại danh tiếng của mình bằng việc nói dối.",
+  "syn": ["fame|sự nổi tiếng", "standing|vị thế"],
+  "ant": ["disrepute|sự ô danh"],
+  "id": "b2-029",
+  "rootVi": "danh tiếng",
+  "famEx": [
+   {"form": "reputable", "en": "Buy from a reputable dealer.", "vi": "Hãy mua từ đại lý uy tín."},
+   {"form": "reputed", "en": "He is reputed to be very rich.", "vi": "Anh ta được cho là rất giàu."}
+  ]
+ },
+ {
+  "root": "NATURE",
+  "w": "natural",
+  "pos": "adj",
+  "ipa": "/ˈnætʃ.ər.əl/",
+  "vi": "tự nhiên, bẩm sinh",
+  "icon": "🌿",
+  "wf": "Singing for her was as ___ as breathing.",
+  "wfVi": "Việc hát với cô ấy tự nhiên như việc hít thở.",
+  "family": [
+   "nature (n)|thiên nhiên, bản chất",
+   "natural (adj)|tự nhiên",
+   "naturally (adv)|một cách tự nhiên",
+   "naturalist (n)|nhà tự nhiên học"
+  ],
+  "en": "It's natural to feel nervous before an exam.",
+  "enVi": "Việc hồi hộp trước kỳ thi là điều tự nhiên.",
+  "en2": "She has a natural talent for music.",
+  "enVi2": "Cô ấy có tài năng bẩm sinh với âm nhạc.",
+  "syn": ["innate|bẩm sinh", "instinctive|theo bản năng"],
+  "ant": ["artificial|nhân tạo", "unnatural|không tự nhiên"],
+  "id": "b2-030",
+  "rootVi": "thiên nhiên, bản chất",
+  "famEx": [
+   {"form": "nature", "en": "I love nature.", "vi": "Tôi yêu thiên nhiên."},
+   {"form": "naturally", "en": "She speaks English naturally.", "vi": "Cô ấy nói tiếng Anh một cách tự nhiên."}
+  ]
+ },
+ {
+  "root": "POLITE",
+  "w": "impolite",
+  "pos": "adj",
+  "ipa": "/ˌɪm.pəˈlaɪt/",
+  "vi": "bất lịch sự",
+  "icon": "🙊",
+  "wf": "Some people think it is ___ to ask someone's age.",
+  "wfVi": "Một số người cho rằng hỏi tuổi ai đó là bất lịch sự.",
+  "family": [
+   "polite (adj)|lịch sự",
+   "politely (adv)|một cách lịch sự",
+   "politeness (n)|sự lịch sự",
+   "impolite (adj)|bất lịch sự"
+  ],
+  "en": "It's impolite to speak with your mouth full.",
+  "enVi": "Vừa ăn vừa nói là bất lịch sự.",
+  "en2": "He was impolite to the waiter.",
+  "enVi2": "Anh ta đã bất lịch sự với người phục vụ.",
+  "syn": ["rude|thô lỗ", "discourteous|thiếu lễ độ"],
+  "ant": ["polite|lịch sự", "courteous|lịch thiệp"],
+  "id": "b2-031",
+  "rootVi": "lịch sự",
+  "famEx": [
+   {"form": "polite", "en": "He is a polite young man.", "vi": "Cậu ấy là chàng trai lịch sự."},
+   {"form": "politeness", "en": "She showed great politeness.", "vi": "Cô ấy rất lịch sự."}
+  ]
+ },
+ {
+  "root": "CONSIDER",
+  "w": "considerate",
+  "pos": "adj",
+  "ipa": "/kənˈsɪd.ər.ət/",
+  "vi": "ân cần, biết quan tâm",
+  "icon": "💖",
+  "wf": "Louis was a kind, caring and ___ young man.",
+  "wfVi": "Louis là một chàng trai tử tế, biết quan tâm và ân cần.",
+  "family": [
+   "consider (v)|xem xét",
+   "considerate (adj)|biết quan tâm",
+   "considerable (adj)|đáng kể",
+   "consideration (n)|sự cân nhắc"
+  ],
+  "en": "She is very considerate of her neighbors.",
+  "enVi": "Cô ấy rất biết quan tâm hàng xóm.",
+  "en2": "It was considerate of you to call.",
+  "enVi2": "Bạn thật chu đáo khi gọi điện.",
+  "syn": ["thoughtful|chu đáo", "caring|biết quan tâm"],
+  "ant": ["inconsiderate|vô tâm", "selfish|ích kỷ"],
+  "id": "b2-032",
+  "rootVi": "xem xét, cân nhắc",
+  "famEx": [
+   {"form": "consider", "en": "Please consider my proposal.", "vi": "Vui lòng cân nhắc đề xuất của tôi."},
+   {"form": "considerable", "en": "It costs a considerable amount.", "vi": "Nó tốn một khoản đáng kể."}
+  ]
+ },
+ {
+  "root": "BEHAVE",
+  "w": "behaviour",
+  "pos": "noun",
+  "ipa": "/bɪˈheɪ.vjər/",
+  "vi": "hành vi, cách cư xử",
+  "icon": "🧒",
+  "wf": "Parents can influence the ___ of their children.",
+  "wfVi": "Cha mẹ có thể ảnh hưởng đến hành vi của con cái.",
+  "family": [
+   "behave (v)|cư xử",
+   "behaviour / behavior (n)|hành vi",
+   "behavioural (adj)|thuộc hành vi",
+   "misbehave (v)|cư xử không đúng mực"
+  ],
+  "en": "His behaviour at school has improved.",
+  "enVi": "Hành vi ở trường của em ấy đã cải thiện.",
+  "en2": "Animal behaviour is fascinating.",
+  "enVi2": "Hành vi của động vật rất thú vị.",
+  "syn": ["conduct|cách cư xử", "manner|cách thức"],
+  "ant": ["misbehaviour|hành vi xấu"],
+  "id": "b2-033",
+  "rootVi": "cư xử",
+  "famEx": [
+   {"form": "behave", "en": "Behave yourself!", "vi": "Hãy ngoan!"},
+   {"form": "misbehave", "en": "The kids misbehaved at the party.", "vi": "Bọn trẻ nghịch ở bữa tiệc."}
+  ]
+ },
+ {
+  "root": "ATTEND",
+  "w": "attention",
+  "pos": "noun",
+  "ipa": "/əˈten.ʃən/",
+  "vi": "sự chú ý",
+  "icon": "📰",
+  "wf": "The event has attracted a lot of media ___.",
+  "wfVi": "Sự kiện đã thu hút nhiều sự chú ý của truyền thông.",
+  "family": [
+   "attend (v)|tham dự",
+   "attention (n)|sự chú ý",
+   "attentive (adj)|chăm chú",
+   "attendance (n)|sự có mặt"
+  ],
+  "en": "May I have your attention, please?",
+  "enVi": "Xin mọi người chú ý.",
+  "en2": "She paid no attention to my advice.",
+  "enVi2": "Cô ấy không để ý đến lời khuyên của tôi.",
+  "syn": ["focus|sự tập trung", "notice|sự chú ý"],
+  "ant": ["inattention|sự lơ là"],
+  "id": "b2-034",
+  "rootVi": "tham dự, chú ý",
+  "famEx": [
+   {"form": "attend", "en": "I will attend the meeting.", "vi": "Tôi sẽ dự cuộc họp."},
+   {"form": "attentive", "en": "He was an attentive listener.", "vi": "Anh ấy lắng nghe chăm chú."}
+  ]
+ },
+ {
+  "root": "SCIENCE",
+  "w": "scientific",
+  "pos": "adj",
+  "ipa": "/ˌsaɪ.ənˈtɪf.ɪk/",
+  "vi": "thuộc khoa học",
+  "icon": "🔬",
+  "wf": "Her curiosity was purely ___.",
+  "wfVi": "Sự tò mò của cô ấy hoàn toàn mang tính khoa học.",
+  "family": [
+   "science (n)|khoa học",
+   "scientific (adj)|thuộc khoa học",
+   "scientist (n)|nhà khoa học",
+   "scientifically (adv)|một cách khoa học"
+  ],
+  "en": "There is no scientific evidence for this claim.",
+  "enVi": "Không có bằng chứng khoa học cho khẳng định này.",
+  "en2": "The team carried out scientific research.",
+  "enVi2": "Nhóm đã tiến hành nghiên cứu khoa học.",
+  "syn": ["systematic|có hệ thống", "empirical|thực nghiệm"],
+  "ant": ["unscientific|phi khoa học"],
+  "id": "b2-035",
+  "rootVi": "khoa học",
+  "famEx": [
+   {"form": "science", "en": "Science explains the world.", "vi": "Khoa học giải thích thế giới."},
+   {"form": "scientist", "en": "She wants to be a scientist.", "vi": "Cô ấy muốn trở thành nhà khoa học."}
+  ]
+ },
+ {
+  "root": "DEPEND",
+  "w": "independently",
+  "pos": "adv",
+  "ipa": "/ˌɪn.dɪˈpen.dənt.li/",
+  "vi": "một cách độc lập",
+  "icon": "🧠",
+  "wf": "The students eventually began to think more ___.",
+  "wfVi": "Cuối cùng học sinh bắt đầu suy nghĩ độc lập hơn.",
+  "family": [
+   "depend (v)|phụ thuộc",
+   "dependent (adj)|phụ thuộc",
+   "independent (adj)|độc lập",
+   "independently (adv)|một cách độc lập",
+   "independence (n)|sự độc lập"
+  ],
+  "en": "She works independently from home.",
+  "enVi": "Cô ấy làm việc độc lập từ nhà.",
+  "en2": "The two studies were conducted independently.",
+  "enVi2": "Hai nghiên cứu được thực hiện độc lập.",
+  "syn": ["autonomously|tự chủ", "separately|riêng biệt"],
+  "ant": ["dependently|một cách phụ thuộc"],
+  "id": "b2-036",
+  "rootVi": "phụ thuộc",
+  "famEx": [
+   {"form": "depend", "en": "It depends on the weather.", "vi": "Điều đó tùy vào thời tiết."},
+   {"form": "independence", "en": "Vietnam declared independence in 1945.", "vi": "Việt Nam tuyên bố độc lập năm 1945."}
+  ]
+ },
+ {
+  "root": "CONVENIENT",
+  "w": "inconvenient",
+  "pos": "adj",
+  "ipa": "/ˌɪn.kənˈviː.ni.ənt/",
+  "vi": "bất tiện",
+  "icon": "🌙",
+  "wf": "Working at night is ___ to most people.",
+  "wfVi": "Làm việc ban đêm là bất tiện với hầu hết mọi người.",
+  "family": [
+   "convenient (adj)|tiện lợi",
+   "conveniently (adv)|một cách tiện lợi",
+   "convenience (n)|sự tiện lợi",
+   "inconvenient (adj)|bất tiện"
+  ],
+  "en": "Could we meet at a less inconvenient time?",
+  "enVi": "Chúng ta gặp vào một thời điểm bớt bất tiện hơn được không?",
+  "en2": "The location is rather inconvenient for me.",
+  "enVi2": "Địa điểm khá bất tiện với tôi.",
+  "syn": ["awkward|bất tiện", "troublesome|phiền phức"],
+  "ant": ["convenient|tiện lợi", "handy|tiện"],
+  "id": "b2-037",
+  "rootVi": "tiện lợi",
+  "famEx": [
+   {"form": "convenient", "en": "This time is convenient for me.", "vi": "Giờ này tiện cho tôi."},
+   {"form": "convenience", "en": "Call me at your convenience.", "vi": "Hãy gọi tôi khi thuận tiện."}
+  ]
+ },
+ {
+  "root": "DIRTY",
+  "w": "dirt",
+  "pos": "noun",
+  "ipa": "/dɜːt/",
+  "vi": "bụi bẩn",
+  "icon": "🧼",
+  "wf": "Clean your face with soap to remove accumulated ___ and oil.",
+  "wfVi": "Hãy rửa mặt với xà phòng để loại bỏ bụi bẩn và dầu tích tụ.",
+  "family": [
+   "dirt (n)|bụi bẩn",
+   "dirty (adj)|bẩn",
+   "dirtily (adv)|một cách bẩn thỉu"
+  ],
+  "en": "His hands were covered in dirt.",
+  "enVi": "Tay anh ấy đầy bụi bẩn.",
+  "en2": "Wipe the dirt off your shoes.",
+  "enVi2": "Lau bụi khỏi giày của bạn.",
+  "syn": ["filth|chất bẩn", "grime|bẩn"],
+  "ant": ["cleanliness|sự sạch sẽ"],
+  "id": "b2-038",
+  "rootVi": "bẩn",
+  "famEx": [
+   {"form": "dirty", "en": "Your shirt is dirty.", "vi": "Áo của bạn bẩn rồi."},
+   {"form": "dirty", "en": "Don't get your clothes dirty.", "vi": "Đừng làm bẩn quần áo."}
+  ]
+ },
+ {
+  "root": "DIVIDE",
+  "w": "division",
+  "pos": "noun",
+  "ipa": "/dɪˈvɪʒ.ən/",
+  "vi": "sự phân chia",
+  "icon": "✂️",
+  "wf": "In many societies, the ___ of labour between the sexes is strict.",
+  "wfVi": "Ở nhiều xã hội, sự phân chia lao động giữa hai giới là rất nghiêm ngặt.",
+  "family": [
+   "divide (v)|chia",
+   "division (n)|sự phân chia",
+   "divisible (adj)|có thể chia hết",
+   "divisive (adj)|gây chia rẽ"
+  ],
+  "en": "There is a clear division of roles.",
+  "enVi": "Có sự phân chia vai trò rõ ràng.",
+  "en2": "The division between rich and poor is growing.",
+  "enVi2": "Sự phân hóa giàu nghèo đang gia tăng.",
+  "syn": ["separation|sự tách biệt", "split|sự chia tách"],
+  "ant": ["union|sự thống nhất", "unity|sự đoàn kết"],
+  "id": "b2-039",
+  "rootVi": "chia",
+  "famEx": [
+   {"form": "divide", "en": "Divide the cake into 8 pieces.", "vi": "Chia bánh thành 8 phần."},
+   {"form": "divisive", "en": "The decision was divisive.", "vi": "Quyết định đó gây chia rẽ."}
+  ]
+ },
+ {
+  "root": "SUIT",
+  "w": "suitably",
+  "pos": "adv",
+  "ipa": "/ˈsuː.tə.bli/",
+  "vi": "một cách phù hợp",
+  "icon": "👗",
+  "wf": "She was afraid she might not have behaved ___.",
+  "wfVi": "Cô ấy sợ rằng mình có thể đã cư xử không phù hợp.",
+  "family": [
+   "suit (v)|phù hợp",
+   "suitable (adj)|phù hợp",
+   "suitably (adv)|một cách phù hợp",
+   "suitability (n)|sự phù hợp"
+  ],
+  "en": "Please dress suitably for the occasion.",
+  "enVi": "Hãy ăn mặc phù hợp với dịp này.",
+  "en2": "He was suitably impressed.",
+  "enVi2": "Anh ấy ấn tượng đúng mức.",
+  "syn": ["appropriately|một cách thích hợp", "fittingly|một cách phù hợp"],
+  "ant": ["unsuitably|không phù hợp"],
+  "id": "b2-040",
+  "rootVi": "phù hợp",
+  "famEx": [
+   {"form": "suit", "en": "Does this time suit you?", "vi": "Giờ này phù hợp với bạn không?"},
+   {"form": "suitable", "en": "This film is not suitable for kids.", "vi": "Phim này không phù hợp cho trẻ em."}
+  ]
+ },
+ {
+  "root": "CARE",
+  "w": "careless",
+  "pos": "adj",
+  "ipa": "/ˈkeə.ləs/",
+  "vi": "bất cẩn",
+  "icon": "📱",
+  "wf": "Losing my phone again was very ___ of me.",
+  "wfVi": "Việc tôi lại làm mất điện thoại thật bất cẩn.",
+  "family": [
+   "care (n/v)|sự quan tâm; quan tâm",
+   "careful (adj)|cẩn thận",
+   "careless (adj)|bất cẩn",
+   "carelessly (adv)|một cách bất cẩn",
+   "carelessness (n)|sự bất cẩn"
+  ],
+  "en": "His careless driving caused the accident.",
+  "enVi": "Sự lái xe bất cẩn của anh ta gây tai nạn.",
+  "en2": "Don't be so careless with your money.",
+  "enVi2": "Đừng bất cẩn với tiền bạc như vậy.",
+  "syn": ["thoughtless|thiếu suy nghĩ", "negligent|cẩu thả"],
+  "ant": ["careful|cẩn thận", "cautious|thận trọng"],
+  "id": "b2-041",
+  "rootVi": "sự quan tâm, chăm sóc",
+  "famEx": [
+   {"form": "care", "en": "Take care of yourself.", "vi": "Hãy giữ gìn sức khỏe."},
+   {"form": "careful", "en": "Be careful when crossing the road.", "vi": "Hãy cẩn thận khi qua đường."}
+  ]
+ },
+ {
+  "root": "SPEAK",
+  "w": "speech",
+  "pos": "noun",
+  "ipa": "/spiːtʃ/",
+  "vi": "bài phát biểu, lời nói",
+  "icon": "🎤",
+  "wf": "He inspired everyone with a moving ___ about tolerance and respect.",
+  "wfVi": "Ông ấy đã truyền cảm hứng cho mọi người bằng một bài phát biểu cảm động về sự khoan dung và tôn trọng.",
+  "family": [
+   "speak (v)|nói",
+   "speech (n)|bài phát biểu",
+   "speaker (n)|người nói, diễn giả",
+   "spoken (adj)|được nói ra"
+  ],
+  "en": "She gave a powerful speech at the conference.",
+  "enVi": "Cô ấy có bài phát biểu mạnh mẽ tại hội nghị.",
+  "en2": "His speech was met with applause.",
+  "enVi2": "Bài phát biểu của ông ấy nhận được tràng vỗ tay.",
+  "syn": ["talk|bài nói chuyện", "address|bài diễn văn"],
+  "ant": ["silence|sự im lặng"],
+  "id": "b2-042",
+  "rootVi": "nói",
+  "famEx": [
+   {"form": "speak", "en": "She can speak three languages.", "vi": "Cô ấy nói được ba thứ tiếng."},
+   {"form": "speaker", "en": "He is a famous public speaker.", "vi": "Ông ấy là diễn giả nổi tiếng."}
+  ]
+ },
+ {
+  "root": "ADMIRE",
+  "w": "admiration",
+  "pos": "noun",
+  "ipa": "/ˌæd.məˈreɪ.ʃən/",
+  "vi": "sự ngưỡng mộ",
+  "icon": "👏",
+  "wf": "He gained the ___ of thousands of people.",
+  "wfVi": "Ông ấy đã giành được sự ngưỡng mộ của hàng ngàn người.",
+  "family": [
+   "admire (v)|ngưỡng mộ",
+   "admiration (n)|sự ngưỡng mộ",
+   "admirable (adj)|đáng ngưỡng mộ",
+   "admirer (n)|người ngưỡng mộ"
+  ],
+  "en": "I have great admiration for her courage.",
+  "enVi": "Tôi vô cùng ngưỡng mộ lòng dũng cảm của cô ấy.",
+  "en2": "He looked at her with admiration.",
+  "enVi2": "Anh ấy nhìn cô bằng ánh mắt ngưỡng mộ.",
+  "syn": ["respect|sự tôn trọng", "esteem|sự kính trọng"],
+  "ant": ["contempt|sự khinh thường", "disdain|sự coi thường"],
+  "id": "b2-043",
+  "rootVi": "ngưỡng mộ",
+  "famEx": [
+   {"form": "admire", "en": "I really admire your work.", "vi": "Tôi rất ngưỡng mộ tác phẩm của bạn."},
+   {"form": "admirable", "en": "His honesty is admirable.", "vi": "Sự trung thực của anh ấy đáng ngưỡng mộ."}
+  ]
+ },
+ {
+  "root": "ADVISE",
+  "w": "advisory",
+  "pos": "adj",
+  "ipa": "/ədˈvaɪ.zər.i/",
+  "vi": "có tính tư vấn, cố vấn",
+  "icon": "💼",
+  "wf": "She is employed by the president in an ___ capacity.",
+  "wfVi": "Cô ấy được tổng thống thuê với vai trò cố vấn.",
+  "family": [
+   "advise (v)|tư vấn",
+   "advice (n)|lời khuyên",
+   "adviser / advisor (n)|cố vấn",
+   "advisory (adj)|có tính tư vấn"
+  ],
+  "en": "He serves on an advisory committee.",
+  "enVi": "Ông ấy phục vụ trong một ủy ban tư vấn.",
+  "en2": "She works in an advisory role.",
+  "enVi2": "Cô ấy làm việc với vai trò tư vấn.",
+  "syn": ["consultative|tư vấn"],
+  "ant": [],
+  "id": "b2-044",
+  "rootVi": "khuyên, tư vấn",
+  "famEx": [
+   {"form": "advise", "en": "I advise you to wait.", "vi": "Tôi khuyên bạn nên đợi."},
+   {"form": "advice", "en": "Thanks for your advice.", "vi": "Cảm ơn lời khuyên của bạn."}
+  ]
+ },
+ {
+  "root": "EAST",
+  "w": "eastern",
+  "pos": "adj",
+  "ipa": "/ˈiː.stən/",
+  "vi": "thuộc phía đông",
+  "icon": "🌅",
+  "wf": "The ___ part of the country is very mountainous.",
+  "wfVi": "Phần phía đông của đất nước rất nhiều núi.",
+  "family": [
+   "east (n/adj)|phía đông",
+   "eastern (adj)|thuộc phía đông",
+   "easterly (adj/adv)|về hướng đông",
+   "eastward (adv)|về phía đông"
+  ],
+  "en": "He travelled through Eastern Europe.",
+  "enVi": "Anh ấy đã đi khắp Đông Âu.",
+  "en2": "Eastern culture is very different from Western.",
+  "enVi2": "Văn hóa phương Đông khác phương Tây nhiều.",
+  "syn": ["oriental|phương Đông"],
+  "ant": ["western|phía tây"],
+  "id": "b2-045",
+  "rootVi": "phía đông",
+  "famEx": [
+   {"form": "east", "en": "The sun rises in the east.", "vi": "Mặt trời mọc ở phía đông."},
+   {"form": "eastward", "en": "We drove eastward.", "vi": "Chúng tôi lái xe về phía đông."}
+  ]
+ },
+ {
+  "root": "ECONOMY",
+  "w": "economical",
+  "pos": "adj",
+  "ipa": "/ˌiː.kəˈnɒm.ɪ.kəl/",
+  "vi": "tiết kiệm, kinh tế",
+  "icon": "💰",
+  "wf": "I had to buy a new washing machine as it would not have been ___ to get it repaired.",
+  "wfVi": "Tôi phải mua máy giặt mới vì sửa cái cũ sẽ không tiết kiệm.",
+  "family": [
+   "economy (n)|nền kinh tế; sự tiết kiệm",
+   "economic (adj)|thuộc kinh tế",
+   "economical (adj)|tiết kiệm",
+   "economically (adv)|một cách kinh tế",
+   "economist (n)|nhà kinh tế học"
+  ],
+  "en": "This car is very economical on fuel.",
+  "enVi": "Chiếc xe này rất tiết kiệm nhiên liệu.",
+  "en2": "It's more economical to buy in bulk.",
+  "enVi2": "Mua số lượng lớn sẽ tiết kiệm hơn.",
+  "syn": ["thrifty|tiết kiệm", "cost-effective|hiệu quả chi phí"],
+  "ant": ["wasteful|lãng phí", "extravagant|hoang phí"],
+  "id": "b2-046",
+  "rootVi": "kinh tế, sự tiết kiệm",
+  "famEx": [
+   {"form": "economy", "en": "The economy is growing.", "vi": "Nền kinh tế đang phát triển."},
+   {"form": "economist", "en": "She is a famous economist.", "vi": "Bà ấy là nhà kinh tế học nổi tiếng."}
+  ]
+ },
+ {
+  "root": "PURE",
+  "w": "purity",
+  "pos": "noun",
+  "ipa": "/ˈpjʊə.rə.ti/",
+  "vi": "sự tinh khiết",
+  "icon": "💧",
+  "wf": "The ___ of the water is tested regularly.",
+  "wfVi": "Độ tinh khiết của nước được kiểm tra thường xuyên.",
+  "family": [
+   "pure (adj)|tinh khiết",
+   "purely (adv)|hoàn toàn",
+   "purity (n)|sự tinh khiết",
+   "purify (v)|làm tinh khiết"
+  ],
+  "en": "The diamond is famous for its purity.",
+  "enVi": "Viên kim cương nổi tiếng vì sự tinh khiết.",
+  "en2": "They test the purity of the gold.",
+  "enVi2": "Họ kiểm tra độ tinh khiết của vàng.",
+  "syn": ["cleanness|sự sạch sẽ", "clarity|sự trong sáng"],
+  "ant": ["impurity|tạp chất"],
+  "id": "b2-047",
+  "rootVi": "tinh khiết",
+  "famEx": [
+   {"form": "pure", "en": "This is pure gold.", "vi": "Đây là vàng nguyên chất."},
+   {"form": "purify", "en": "Plants help purify the air.", "vi": "Cây xanh giúp lọc sạch không khí."}
+  ]
+ },
+ {
+  "root": "DESTROY",
+  "w": "destruction",
+  "pos": "noun",
+  "ipa": "/dɪˈstrʌk.ʃən/",
+  "vi": "sự phá hủy",
+  "icon": "💥",
+  "wf": "The earthquake caused loss of life and property ___.",
+  "wfVi": "Trận động đất đã gây thiệt mạng và phá hủy tài sản.",
+  "family": [
+   "destroy (v)|phá hủy",
+   "destruction (n)|sự phá hủy",
+   "destructive (adj)|có tính phá hoại",
+   "destroyer (n)|kẻ phá hoại"
+  ],
+  "en": "The war caused massive destruction.",
+  "enVi": "Chiến tranh gây ra sự tàn phá to lớn.",
+  "en2": "The destruction of the forests must stop.",
+  "enVi2": "Sự phá rừng phải chấm dứt.",
+  "syn": ["devastation|sự tàn phá", "ruin|sự đổ nát"],
+  "ant": ["construction|sự xây dựng", "creation|sự tạo dựng"],
+  "id": "b2-048",
+  "rootVi": "phá hủy",
+  "famEx": [
+   {"form": "destroy", "en": "Fire destroyed the building.", "vi": "Lửa đã phá hủy tòa nhà."},
+   {"form": "destructive", "en": "Hurricanes are very destructive.", "vi": "Bão rất có sức tàn phá."}
+  ]
+ },
+ {
+  "root": "PREDICT",
+  "w": "unpredictable",
+  "pos": "adj",
+  "ipa": "/ˌʌn.prɪˈdɪk.tə.bəl/",
+  "vi": "không thể đoán trước",
+  "icon": "🏔️",
+  "wf": "The ___ weather in the mountains can make climbing extremely hazardous.",
+  "wfVi": "Thời tiết khó lường trên núi có thể khiến việc leo núi cực kỳ nguy hiểm.",
+  "family": [
+   "predict (v)|dự đoán",
+   "prediction (n)|dự đoán",
+   "predictable (adj)|có thể đoán trước",
+   "unpredictable (adj)|không thể đoán trước"
+  ],
+  "en": "His behaviour is very unpredictable.",
+  "enVi": "Hành vi của anh ta rất khó đoán.",
+  "en2": "The market is unpredictable these days.",
+  "enVi2": "Thị trường khó lường trong những ngày này.",
+  "syn": ["erratic|thất thường", "uncertain|không chắc chắn"],
+  "ant": ["predictable|có thể đoán trước", "stable|ổn định"],
+  "id": "b2-049",
+  "rootVi": "dự đoán",
+  "famEx": [
+   {"form": "predict", "en": "It's hard to predict the future.", "vi": "Khó dự đoán tương lai."},
+   {"form": "prediction", "en": "Her prediction was correct.", "vi": "Dự đoán của cô ấy đã đúng."}
+  ]
+ },
+ {
+  "root": "ADVERTISE",
+  "w": "advertising",
+  "pos": "noun",
+  "ipa": "/ˈæd.və.taɪ.zɪŋ/",
+  "vi": "việc quảng cáo",
+  "icon": "📢",
+  "wf": "Paid ___ on social media is an assured way to reach out to customers.",
+  "wfVi": "Việc quảng cáo có trả phí trên mạng xã hội là cách chắc chắn để tiếp cận khách hàng.",
+  "family": [
+   "advertise (v)|quảng cáo",
+   "advertisement (n)|mẩu quảng cáo",
+   "advertising (n)|ngành/hoạt động quảng cáo",
+   "advertiser (n)|nhà quảng cáo"
+  ],
+  "en": "She works in advertising.",
+  "enVi": "Cô ấy làm trong ngành quảng cáo.",
+  "en2": "TV advertising is very expensive.",
+  "enVi2": "Quảng cáo trên TV rất đắt.",
+  "syn": ["promotion|sự xúc tiến", "marketing|tiếp thị"],
+  "ant": [],
+  "id": "b2-050",
+  "rootVi": "quảng cáo",
+  "famEx": [
+   {"form": "advertise", "en": "They advertise on TV.", "vi": "Họ quảng cáo trên TV."},
+   {"form": "advertisement", "en": "I saw the advertisement online.", "vi": "Tôi thấy quảng cáo trên mạng."}
+  ]
+ }
+]

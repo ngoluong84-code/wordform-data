@@ -1,11 +1,17 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-06-28",
   "batches": [
     {
       "id": 1,
       "title": "Đợt 1 — Word Form (50 từ, học từ gốc)",
       "url": "https://raw.githubusercontent.com/ngoluong84-code/wordform-data/main/batch1.json",
+      "count": 50
+    },
+    {
+      "id": 2,
+      "title": "Đợt 2 — 2013 Chuyên 1 · File 5 (Word Formation No.3 · B2)",
+      "url": "https://raw.githubusercontent.com/ngoluong84-code/wordform-data/main/batch2.json",
       "count": 50
     }
   ]
