@@ -9,10 +9,10 @@
   "wf": "The law has done little to prevent racial discrimination and ___.",
   "wfVi": "Luật pháp làm được rất ít để ngăn phân biệt chủng tộc và sự bất bình đẳng.",
   "family": [
-   "equal (adj)",
-   "equality (n)",
-   "inequality (n)",
-   "equally (adv)"
+   "equal (adj)|bằng nhau",
+   "equality (n)|sự bình đẳng",
+   "inequality (n)|sự bất bình đẳng",
+   "equally (adv)|một cách bình đẳng"
   ],
   "en": "There is still inequality between men and women.",
   "enVi": "Vẫn còn sự bất bình đẳng giữa nam và nữ.",
@@ -49,9 +49,9 @@
   "wf": "Newton's discoveries ___ physics.",
   "wfVi": "Những khám phá của Newton đã cách mạng hóa vật lý học.",
   "family": [
-   "revolution (n)",
-   "revolutionary (adj)",
-   "revolutionize (v)"
+   "revolution (n)|cuộc cách mạng",
+   "revolutionary (adj)|mang tính cách mạng",
+   "revolutionize (v)|cách mạng hóa"
   ],
   "en": "The internet revolutionized communication.",
   "enVi": "Internet đã cách mạng hóa việc giao tiếp.",
@@ -86,10 +86,10 @@
   "wf": "She's ___ that her mother might find out her secret.",
   "wfVi": "Cô ấy sợ hãi rằng mẹ mình có thể phát hiện ra bí mật.",
   "family": [
-   "terrify (v)",
-   "terrified (adj)",
-   "terrifying (adj)",
-   "terror (n)"
+   "terrify (v)|làm khiếp sợ",
+   "terrified (adj)|sợ hãi",
+   "terrifying (adj)|đáng sợ",
+   "terror (n)|nỗi kinh hoàng"
   ],
   "en": "I'm terrified of spiders.",
   "enVi": "Tôi sợ nhện kinh khủng.",
@@ -127,9 +127,9 @@
   "wf": "He wasn't ___ injured - he just got a few cuts and bruises.",
   "wfVi": "Anh ấy không bị thương nghiêm trọng - chỉ vài vết cắt và bầm tím.",
   "family": [
-   "serious (adj)",
-   "seriously (adv)",
-   "seriousness (n)"
+   "serious (adj)|nghiêm trọng",
+   "seriously (adv)|một cách nghiêm túc",
+   "seriousness (n)|sự nghiêm trọng"
   ],
   "en": "Nobody was seriously hurt in the accident.",
   "enVi": "Không ai bị thương nặng trong vụ tai nạn.",
@@ -166,10 +166,10 @@
   "wf": "His ___ in God gave him hope during difficult times.",
   "wfVi": "Niềm tin vào Chúa đã cho anh ấy hy vọng trong lúc khó khăn.",
   "family": [
-   "believe (v)",
-   "belief (n)",
-   "believable (adj)",
-   "believer (n)"
+   "believe (v)|tin",
+   "belief (n)|niềm tin",
+   "believable (adj)|đáng tin",
+   "believer (n)|tín đồ, người tin"
   ],
   "en": "She has a strong belief in justice.",
   "enVi": "Cô ấy có niềm tin mạnh mẽ vào công lý.",
@@ -206,10 +206,10 @@
   "wf": "You feel so ___ because there's nothing you can do to make the child better.",
   "wfVi": "Bạn cảm thấy thật bất lực vì không thể làm gì để đứa trẻ khỏe hơn.",
   "family": [
-   "help (v/n)",
-   "helpful (adj)",
-   "helpless (adj)",
-   "helpfully (adv)"
+   "help (v/n)|giúp đỡ",
+   "helpful (adj)|hữu ích",
+   "helpless (adj)|bất lực",
+   "helpfully (adv)|một cách hữu ích"
   ],
   "en": "The kitten was small and helpless.",
   "enVi": "Chú mèo con nhỏ bé và bất lực.",
@@ -246,10 +246,10 @@
   "wf": "I had an active ___ life when I was at college.",
   "wfVi": "Tôi có một đời sống xã hội năng động khi học đại học.",
   "family": [
-   "society (n)",
-   "social (adj)",
-   "socially (adv)",
-   "socialize (v)"
+   "society (n)|xã hội",
+   "social (adj)|thuộc xã hội",
+   "socially (adv)|về mặt xã hội",
+   "socialize (v)|giao lưu"
   ],
   "en": "She enjoys a busy social life.",
   "enVi": "Cô ấy thích một đời sống xã hội bận rộn.",
@@ -282,10 +282,10 @@
   "wf": "Two top athletes have been ___ from the championship after positive drug tests.",
   "wfVi": "Hai vận động viên hàng đầu đã bị loại khỏi giải sau khi dương tính với doping.",
   "family": [
-   "qualify (v)",
-   "qualified (adj)",
-   "qualification (n)",
-   "disqualify (v)"
+   "qualify (v)|đủ điều kiện",
+   "qualified (adj)|đủ trình độ",
+   "qualification (n)|bằng cấp",
+   "disqualify (v)|loại, tước quyền"
   ],
   "en": "He was disqualified for cheating.",
   "enVi": "Anh ấy bị loại vì gian lận.",
@@ -322,10 +322,10 @@
   "wf": "There's increasing demand for cars that are more ___ on fuel.",
   "wfVi": "Nhu cầu về những chiếc xe tiết kiệm nhiên liệu ngày càng tăng.",
   "family": [
-   "economy (n)",
-   "economic (adj)",
-   "economical (adj)",
-   "economically (adv)"
+   "economy (n)|nền kinh tế",
+   "economic (adj)|thuộc kinh tế",
+   "economical (adj)|tiết kiệm",
+   "economically (adv)|một cách tiết kiệm"
   ],
   "en": "This small car is very economical.",
   "enVi": "Chiếc xe nhỏ này rất tiết kiệm.",
@@ -362,10 +362,10 @@
   "wf": "___, I didn't have my credit card with me, or else I would have bought it.",
   "wfVi": "Thật không may, tôi không mang theo thẻ tín dụng, nếu không tôi đã mua nó.",
   "family": [
-   "fortune (n)",
-   "fortunate (adj)",
-   "unfortunate (adj)",
-   "unfortunately (adv)"
+   "fortune (n)|vận may; gia tài",
+   "fortunate (adj)|may mắn",
+   "unfortunate (adj)|không may",
+   "unfortunately (adv)|thật không may"
   ],
   "en": "Unfortunately, the show was cancelled.",
   "enVi": "Thật không may, buổi diễn đã bị hủy.",
@@ -402,10 +402,10 @@
   "wf": "He ___ me when he drives so fast.",
   "wfVi": "Anh ấy làm tôi sợ khi lái xe quá nhanh.",
   "family": [
-   "fright (n)",
-   "frighten (v)",
-   "frightened (adj)",
-   "frightening (adj)"
+   "fright (n)|sự sợ hãi",
+   "frighten (v)|làm sợ",
+   "frightened (adj)|sợ hãi",
+   "frightening (adj)|đáng sợ"
   ],
   "en": "Loud noises frighten the dog.",
   "enVi": "Tiếng ồn lớn làm con chó sợ.",
@@ -442,10 +442,10 @@
   "wf": "After an ___ shift at the hospital, she just wanted to go to sleep.",
   "wfVi": "Sau một ca làm mệt lử ở bệnh viện, cô ấy chỉ muốn đi ngủ.",
   "family": [
-   "exhaust (v)",
-   "exhausted (adj)",
-   "exhausting (adj)",
-   "exhaustion (n)"
+   "exhaust (v)|làm kiệt sức",
+   "exhausted (adj)|kiệt sức",
+   "exhausting (adj)|mệt lử",
+   "exhaustion (n)|sự kiệt sức"
   ],
   "en": "The long journey was exhausting.",
   "enVi": "Chuyến đi dài thật mệt lử.",
@@ -482,9 +482,9 @@
   "wf": "Cars must stop at red traffic lights; ___, bicycles have to stop too.",
   "wfVi": "Ô tô phải dừng ở đèn đỏ; tương tự, xe đạp cũng phải dừng.",
   "family": [
-   "similar (adj)",
-   "similarly (adv)",
-   "similarity (n)"
+   "similar (adj)|tương tự",
+   "similarly (adv)|tương tự như vậy",
+   "similarity (n)|sự giống nhau"
   ],
   "en": "Both plans are similarly priced.",
   "enVi": "Cả hai gói có giá tương tự nhau.",
@@ -521,9 +521,9 @@
   "wf": "The concert features dancers and ___ of all nationalities.",
   "wfVi": "Buổi hòa nhạc có vũ công và nhạc công thuộc mọi quốc tịch.",
   "family": [
-   "music (n)",
-   "musical (adj)",
-   "musician (n)"
+   "music (n)|âm nhạc",
+   "musical (adj)|thuộc âm nhạc",
+   "musician (n)|nhạc công"
   ],
   "en": "The musicians played beautifully.",
   "enVi": "Các nhạc công chơi rất hay.",
@@ -558,8 +558,8 @@
   "wf": "Members all receive a free copy of the ___ newsletter.",
   "wfVi": "Tất cả thành viên đều nhận một bản tin hàng tháng miễn phí.",
   "family": [
-   "month (n)",
-   "monthly (adj/adv)"
+   "month (n)|tháng",
+   "monthly (adj/adv)|hàng tháng"
   ],
   "en": "We hold a monthly meeting.",
   "enVi": "Chúng tôi họp hàng tháng.",
@@ -592,9 +592,9 @@
   "wf": "She was looking at her ___ in the mirror.",
   "wfVi": "Cô ấy đang nhìn hình phản chiếu của mình trong gương.",
   "family": [
-   "reflect (v)",
-   "reflection (n)",
-   "reflective (adj)"
+   "reflect (v)|phản chiếu; suy ngẫm",
+   "reflection (n)|hình phản chiếu",
+   "reflective (adj)|hay suy ngẫm"
   ],
   "en": "He saw his reflection in the water.",
   "enVi": "Anh ấy thấy hình mình phản chiếu dưới nước.",
@@ -629,9 +629,9 @@
   "wf": "Her health is what matters - the cost of the treatment is of ___ importance.",
   "wfVi": "Sức khỏe của cô ấy mới quan trọng - chi phí điều trị chỉ là thứ yếu.",
   "family": [
-   "second (n/adj)",
-   "secondary (adj)",
-   "secondly (adv)"
+   "second (n/adj)|thứ hai; giây",
+   "secondary (adj)|thứ yếu",
+   "secondly (adv)|thứ hai là"
   ],
   "en": "This is a secondary issue.",
   "enVi": "Đây là vấn đề thứ yếu.",
@@ -668,10 +668,10 @@
   "wf": "The tablets work more ___ if you take a hot drink after them.",
   "wfVi": "Viên thuốc có tác dụng hiệu quả hơn nếu bạn uống đồ nóng sau đó.",
   "family": [
-   "effect (n)",
-   "effective (adj)",
-   "effectively (adv)",
-   "effectiveness (n)"
+   "effect (n)|tác động",
+   "effective (adj)|hiệu quả",
+   "effectively (adv)|một cách hiệu quả",
+   "effectiveness (n)|tính hiệu quả"
   ],
   "en": "The team worked effectively together.",
   "enVi": "Cả đội phối hợp hiệu quả.",
@@ -708,9 +708,9 @@
   "wf": "As the ___ clouds approached, the winds suddenly blew up into a blinding snowstorm.",
   "wfVi": "Khi những đám mây đầy đe dọa kéo đến, gió bỗng nổi lên thành cơn bão tuyết mù mịt.",
   "family": [
-   "threat (n)",
-   "threaten (v)",
-   "threatening (adj)"
+   "threat (n)|mối đe dọa",
+   "threaten (v)|đe dọa",
+   "threatening (adj)|đầy đe dọa"
   ],
   "en": "He sent a threatening letter.",
   "enVi": "Anh ta gửi một lá thư đe dọa.",
@@ -745,10 +745,10 @@
   "wf": "He's a tough ___ and will probably do well in business.",
   "wfVi": "Anh ấy là một đối thủ cứng cỏi và có thể sẽ thành công trong kinh doanh.",
   "family": [
-   "compete (v)",
-   "competition (n)",
-   "competitor (n)",
-   "competitive (adj)"
+   "compete (v)|cạnh tranh",
+   "competition (n)|cuộc thi; sự cạnh tranh",
+   "competitor (n)|đối thủ",
+   "competitive (adj)|cạnh tranh"
   ],
   "en": "Our main competitor lowered its prices.",
   "enVi": "Đối thủ chính của chúng tôi đã giảm giá.",
@@ -785,10 +785,10 @@
   "wf": "He had known ___ and failure, but in the end he persevered and wound up with a successful business.",
   "wfVi": "Anh ấy đã từng nản lòng và thất bại, nhưng cuối cùng vẫn kiên trì và có một doanh nghiệp thành công.",
   "family": [
-   "courage (n)",
-   "encourage (v)",
-   "discourage (v)",
-   "discouragement (n)"
+   "courage (n)|lòng can đảm",
+   "encourage (v)|động viên",
+   "discourage (v)|làm nản lòng",
+   "discouragement (n)|sự nản chí"
   ],
   "en": "Despite discouragement, she kept trying.",
   "enVi": "Dù nản lòng, cô ấy vẫn tiếp tục cố gắng.",
@@ -825,8 +825,8 @@
   "wf": "This drug has been heralded as a major ___ in the fight against breast cancer.",
   "wfVi": "Loại thuốc này được ca ngợi là một bước đột phá lớn trong cuộc chiến chống ung thư vú.",
   "family": [
-   "break (v/n)",
-   "breakthrough (n)"
+   "break (v/n)|làm vỡ; nghỉ giải lao",
+   "breakthrough (n)|bước đột phá"
   ],
   "en": "Scientists made a breakthrough in cancer research.",
   "enVi": "Các nhà khoa học đã có bước đột phá trong nghiên cứu ung thư.",
@@ -861,10 +861,10 @@
   "wf": "She teaches ___ techniques.",
   "wfVi": "Cô ấy dạy các kỹ thuật thư giãn.",
   "family": [
-   "relax (v)",
-   "relaxed (adj)",
-   "relaxing (adj)",
-   "relaxation (n)"
+   "relax (v)|thư giãn",
+   "relaxed (adj)|thư thái",
+   "relaxing (adj)|gây thư giãn",
+   "relaxation (n)|sự thư giãn"
   ],
   "en": "Music is a form of relaxation for me.",
   "enVi": "Âm nhạc là một cách thư giãn với tôi.",
@@ -901,9 +901,9 @@
   "wf": "Magellan was a famous 16th-century ___.",
   "wfVi": "Magellan là một nhà thám hiểm nổi tiếng thế kỷ 16.",
   "family": [
-   "explore (v)",
-   "exploration (n)",
-   "explorer (n)"
+   "explore (v)|khám phá",
+   "exploration (n)|sự thám hiểm",
+   "explorer (n)|nhà thám hiểm"
   ],
   "en": "The explorer crossed the icy continent.",
   "enVi": "Nhà thám hiểm đã băng qua lục địa băng giá.",
@@ -938,9 +938,9 @@
   "wf": "Officials did not believe the runner's ___ that he had taken drugs.",
   "wfVi": "Các quan chức không tin lời phủ nhận của vận động viên rằng anh ta đã dùng thuốc.",
   "family": [
-   "deny (v)",
-   "denial (n)",
-   "undeniable (adj)"
+   "deny (v)|phủ nhận",
+   "denial (n)|sự phủ nhận",
+   "undeniable (adj)|không thể chối cãi"
   ],
   "en": "His denial did not convince anyone.",
   "enVi": "Lời chối của anh ta không thuyết phục được ai.",
@@ -977,9 +977,9 @@
   "wf": "There are two ___ - one at the front and one around the back.",
   "wfVi": "Có hai lối vào - một ở phía trước và một ở phía sau.",
   "family": [
-   "enter (v)",
-   "entrance (n)",
-   "entry (n)"
+   "enter (v)|đi vào",
+   "entrance (n)|lối vào",
+   "entry (n)|sự vào; mục nhập"
   ],
   "en": "The main entrance is on the left.",
   "enVi": "Lối vào chính ở bên trái.",
@@ -1016,10 +1016,10 @@
   "wf": "She went upstairs to ___ herself.",
   "wfVi": "Cô ấy lên gác để làm đẹp cho mình.",
   "family": [
-   "beauty (n)",
-   "beautiful (adj)",
-   "beautify (v)",
-   "beautifully (adv)"
+   "beauty (n)|vẻ đẹp",
+   "beautiful (adj)|đẹp",
+   "beautify (v)|làm đẹp",
+   "beautifully (adv)|một cách đẹp đẽ"
   ],
   "en": "They planted flowers to beautify the park.",
   "enVi": "Họ trồng hoa để làm đẹp công viên.",
@@ -1056,8 +1056,8 @@
   "wf": "Goods are ___ as long as they are returned in good condition.",
   "wfVi": "Hàng hóa có thể đổi được miễn là được trả lại trong tình trạng tốt.",
   "family": [
-   "exchange (v/n)",
-   "exchangeable (adj)"
+   "exchange (v/n)|trao đổi",
+   "exchangeable (adj)|có thể đổi được"
   ],
   "en": "These tickets are not exchangeable.",
   "enVi": "Những vé này không thể đổi được.",
@@ -1092,9 +1092,9 @@
   "wf": "Smoking can cause ___ diseases.",
   "wfVi": "Hút thuốc có thể gây ra các bệnh về hô hấp.",
   "family": [
-   "respire (v)",
-   "respiration (n)",
-   "respiratory (adj)"
+   "respire (v)|hô hấp",
+   "respiration (n)|sự hô hấp",
+   "respiratory (adj)|thuộc hô hấp"
   ],
   "en": "He has a respiratory infection.",
   "enVi": "Anh ấy bị nhiễm trùng đường hô hấp.",
@@ -1127,8 +1127,8 @@
   "wf": "His ambition is ___ to run his own business.",
   "wfVi": "Tham vọng của anh ấy rốt cuộc là điều hành doanh nghiệp riêng.",
   "family": [
-   "ultimate (adj)",
-   "ultimately (adv)"
+   "ultimate (adj)|cuối cùng, tối hậu",
+   "ultimately (adv)|rốt cuộc"
   ],
   "en": "Ultimately, the decision is yours.",
   "enVi": "Cuối cùng, quyết định là của bạn.",
@@ -1165,8 +1165,8 @@
   "wf": "Street-fights are an everyday ___ in this area of the city.",
   "wfVi": "Đánh nhau ngoài đường là chuyện xảy ra hằng ngày ở khu vực này.",
   "family": [
-   "occur (v)",
-   "occurrence (n)"
+   "occur (v)|xảy ra",
+   "occurrence (n)|sự việc xảy ra"
   ],
   "en": "Floods are a common occurrence here.",
   "enVi": "Lũ lụt là hiện tượng thường gặp ở đây.",
@@ -1201,9 +1201,9 @@
   "wf": "Her friends take advantage of her ___.",
   "wfVi": "Bạn bè lợi dụng sự hào phóng của cô ấy.",
   "family": [
-   "generous (adj)",
-   "generosity (n)",
-   "generously (adv)"
+   "generous (adj)|hào phóng",
+   "generosity (n)|sự hào phóng",
+   "generously (adv)|một cách hào phóng"
   ],
   "en": "Thank you for your generosity.",
   "enVi": "Cảm ơn sự hào phóng của bạn.",
@@ -1240,9 +1240,9 @@
   "wf": "Some miners are calling for a ___ strike in support of their sacked colleagues.",
   "wfVi": "Một số thợ mỏ kêu gọi một cuộc đình công trên toàn quốc để ủng hộ đồng nghiệp bị sa thải.",
   "family": [
-   "nation (n)",
-   "national (adj)",
-   "nationwide (adj/adv)"
+   "nation (n)|quốc gia",
+   "national (adj)|thuộc quốc gia",
+   "nationwide (adj/adv)|trên toàn quốc"
   ],
   "en": "The company has a nationwide network.",
   "enVi": "Công ty có mạng lưới trên toàn quốc.",
@@ -1279,9 +1279,9 @@
   "wf": "The child needs help to control his ___ behavior.",
   "wfVi": "Đứa trẻ cần được giúp đỡ để kiểm soát hành vi phá phách của mình.",
   "family": [
-   "destroy (v)",
-   "destruction (n)",
-   "destructive (adj)"
+   "destroy (v)|phá hủy",
+   "destruction (n)|sự tàn phá",
+   "destructive (adj)|có tính phá hoại"
   ],
   "en": "The storm was highly destructive.",
   "enVi": "Cơn bão có sức tàn phá lớn.",
@@ -1318,10 +1318,10 @@
   "wf": "No one's ___ in the workplace.",
   "wfVi": "Không ai là không thể thay thế ở nơi làm việc.",
   "family": [
-   "replace (v)",
-   "replacement (n)",
-   "replaceable (adj)",
-   "irreplaceable (adj)"
+   "replace (v)|thay thế",
+   "replacement (n)|sự thay thế",
+   "replaceable (adj)|có thể thay thế",
+   "irreplaceable (adj)|không thể thay thế"
   ],
   "en": "These old photos are irreplaceable.",
   "enVi": "Những bức ảnh cũ này là vô giá, không thể thay thế.",
@@ -1358,8 +1358,8 @@
   "wf": "Geologists understand many factors that cause ___ eruptions.",
   "wfVi": "Các nhà địa chất hiểu nhiều yếu tố gây ra các vụ phun trào núi lửa.",
   "family": [
-   "volcano (n)",
-   "volcanic (adj)"
+   "volcano (n)|núi lửa",
+   "volcanic (adj)|thuộc núi lửa"
   ],
   "en": "The island has volcanic soil.",
   "enVi": "Hòn đảo có đất núi lửa.",
@@ -1392,10 +1392,10 @@
   "wf": "The house was ___ rebuilt after the fire.",
   "wfVi": "Ngôi nhà được xây lại rất nhiều sau vụ cháy.",
   "family": [
-   "extend (v)",
-   "extension (n)",
-   "extensive (adj)",
-   "extensively (adv)"
+   "extend (v)|kéo dài, mở rộng",
+   "extension (n)|sự mở rộng",
+   "extensive (adj)|sâu rộng",
+   "extensively (adv)|một cách rộng rãi"
   ],
   "en": "He has travelled extensively in Asia.",
   "enVi": "Anh ấy đã đi nhiều nơi ở châu Á.",
@@ -1432,9 +1432,9 @@
   "wf": "The report stresses the ___ of eating plenty of fresh fruit.",
   "wfVi": "Báo cáo nhấn mạnh sự cần thiết của việc ăn nhiều trái cây tươi.",
   "family": [
-   "need (v/n)",
-   "needy (adj)",
-   "unnecessary (adj)"
+   "need (v/n)|cần; nhu cầu",
+   "needy (adj)|túng thiếu",
+   "unnecessary (adj)|không cần thiết"
   ],
   "en": "There is a great need for clean water.",
   "enVi": "Có nhu cầu lớn về nước sạch.",
@@ -1469,10 +1469,10 @@
   "wf": "She has won a reputation as a leading ___ in the industry.",
   "wfVi": "Cô ấy đã nổi tiếng là một nhà cải tiến hàng đầu trong ngành.",
   "family": [
-   "innovate (v)",
-   "innovation (n)",
-   "innovator (n)",
-   "innovative (adj)"
+   "innovate (v)|đổi mới",
+   "innovation (n)|sự đổi mới",
+   "innovator (n)|nhà cải tiến",
+   "innovative (adj)|sáng tạo"
   ],
   "en": "He is a brilliant innovator.",
   "enVi": "Anh ấy là một nhà cải tiến xuất sắc.",
@@ -1507,9 +1507,9 @@
   "wf": "Plants help to ___ the air.",
   "wfVi": "Cây xanh giúp làm sạch không khí.",
   "family": [
-   "pure (adj)",
-   "purity (n)",
-   "purify (v)"
+   "pure (adj)|tinh khiết",
+   "purity (n)|sự tinh khiết",
+   "purify (v)|làm sạch"
   ],
   "en": "This device purifies water.",
   "enVi": "Thiết bị này lọc sạch nước.",
@@ -1546,8 +1546,8 @@
   "wf": "You have to ___ in this job because you can't do everything.",
   "wfVi": "Bạn phải biết ưu tiên trong công việc này vì không thể làm hết mọi thứ.",
   "family": [
-   "priority (n)",
-   "prioritize (v)"
+   "priority (n)|sự ưu tiên",
+   "prioritize (v)|ưu tiên"
   ],
   "en": "Learn to prioritize your tasks.",
   "enVi": "Hãy học cách ưu tiên công việc.",
@@ -1580,9 +1580,9 @@
   "wf": "Three candidates are seeking the Democratic ___ for the presidency.",
   "wfVi": "Ba ứng viên đang tìm kiếm sự đề cử của đảng Dân chủ cho chức tổng thống.",
   "family": [
-   "nominate (v)",
-   "nomination (n)",
-   "nominee (n)"
+   "nominate (v)|đề cử",
+   "nomination (n)|sự đề cử",
+   "nominee (n)|người được đề cử"
   ],
   "en": "She received an Oscar nomination.",
   "enVi": "Cô ấy nhận được đề cử Oscar.",
@@ -1615,10 +1615,10 @@
   "wf": "I need someone ___ to take care of the child while I'm at work.",
   "wfVi": "Tôi cần một người đáng tin cậy để chăm sóc đứa trẻ khi tôi đi làm.",
   "family": [
-   "depend (v)",
-   "dependent (adj)",
-   "dependable (adj)",
-   "dependence (n)"
+   "depend (v)|phụ thuộc",
+   "dependent (adj)|phụ thuộc",
+   "dependable (adj)|đáng tin cậy",
+   "dependence (n)|sự phụ thuộc"
   ],
   "en": "He is a dependable worker.",
   "enVi": "Anh ấy là một người làm việc đáng tin cậy.",
@@ -1655,9 +1655,9 @@
   "wf": "Ruth has a real ___ for old houses.",
   "wfVi": "Ruth thực sự yêu thích những ngôi nhà cổ.",
   "family": [
-   "fond (adj)",
-   "fondness (n)",
-   "fondly (adv)"
+   "fond (adj)|yêu thích",
+   "fondness (n)|sự yêu thích",
+   "fondly (adv)|một cách trìu mến"
   ],
   "en": "She has a fondness for sweets.",
   "enVi": "Cô ấy thích đồ ngọt.",
@@ -1694,9 +1694,9 @@
   "wf": "___ I have a piece of chocolate, but it's very rare.",
   "wfVi": "Thỉnh thoảng tôi ăn một miếng sô-cô-la, nhưng rất hiếm.",
   "family": [
-   "occasion (n)",
-   "occasional (adj)",
-   "occasionally (adv)"
+   "occasion (n)|dịp",
+   "occasional (adj)|thỉnh thoảng",
+   "occasionally (adv)|thỉnh thoảng"
   ],
   "en": "We occasionally eat out.",
   "enVi": "Thỉnh thoảng chúng tôi ăn ngoài.",
@@ -1733,9 +1733,9 @@
   "wf": "New measures have been introduced to ___ traffic congestion in the city.",
   "wfVi": "Các biện pháp mới được đưa ra để giảm tắc nghẽn giao thông trong thành phố.",
   "family": [
-   "easy (adj)",
-   "ease (v/n)",
-   "easily (adv)"
+   "easy (adj)|dễ",
+   "ease (v/n)|làm dịu; sự dễ dàng",
+   "easily (adv)|một cách dễ dàng"
   ],
   "en": "This medicine will ease the pain.",
   "enVi": "Thuốc này sẽ làm dịu cơn đau.",
@@ -1772,9 +1772,9 @@
   "wf": "Unless the oil spill is contained, ___ damage will be done to the coastline.",
   "wfVi": "Nếu sự cố tràn dầu không được khống chế, thiệt hại không thể khắc phục sẽ xảy ra với bờ biển.",
   "family": [
-   "repair (v/n)",
-   "repairable (adj)",
-   "irreparable (adj)"
+   "repair (v/n)|sửa chữa",
+   "repairable (adj)|có thể sửa",
+   "irreparable (adj)|không thể sửa"
   ],
   "en": "The fire caused irreparable damage.",
   "enVi": "Đám cháy gây ra thiệt hại không thể khắc phục.",
@@ -1811,9 +1811,9 @@
   "wf": "___ did not spend as much last quarter as analysts predicted.",
   "wfVi": "Người tiêu dùng đã không chi tiêu nhiều như các nhà phân tích dự đoán trong quý trước.",
   "family": [
-   "consume (v)",
-   "consumer (n)",
-   "consumption (n)"
+   "consume (v)|tiêu thụ",
+   "consumer (n)|người tiêu dùng",
+   "consumption (n)|sự tiêu thụ"
   ],
   "en": "Consumers want better quality.",
   "enVi": "Người tiêu dùng muốn chất lượng tốt hơn.",
@@ -1850,9 +1850,9 @@
   "wf": "Christmas is such a ___ time of year.",
   "wfVi": "Giáng sinh là khoảng thời gian thật vui mừng trong năm.",
   "family": [
-   "joy (n)",
-   "joyful (adj)",
-   "joyfully (adv)"
+   "joy (n)|niềm vui",
+   "joyful (adj)|vui mừng",
+   "joyfully (adv)|một cách vui vẻ"
   ],
   "en": "It was a joyful celebration.",
   "enVi": "Đó là một buổi lễ vui mừng.",
@@ -1889,9 +1889,9 @@
   "wf": "The family were left ___ after the flood.",
   "wfVi": "Gia đình bị mất nhà cửa sau trận lũ.",
   "family": [
-   "home (n)",
-   "homeless (adj)",
-   "homelessness (n)"
+   "home (n)|nhà",
+   "homeless (adj)|vô gia cư",
+   "homelessness (n)|tình trạng vô gia cư"
   ],
   "en": "Many people became homeless after the war.",
   "enVi": "Nhiều người trở nên vô gia cư sau chiến tranh.",
