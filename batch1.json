@@ -24,7 +24,20 @@
   "ant": [
    "equality|sự bình đẳng"
   ],
-  "id": "b1-001"
+  "id": "b1-001",
+  "rootVi": "bằng nhau, ngang bằng",
+  "famEx": [
+   {
+    "form": "equal",
+    "en": "All people are equal before the law.",
+    "vi": "Mọi người đều bình đẳng trước pháp luật."
+   },
+   {
+    "form": "equally",
+    "en": "Divide the cake equally among the children.",
+    "vi": "Chia bánh đều cho lũ trẻ."
+   }
+  ]
  },
  {
   "root": "REVOLUTION",
@@ -48,7 +61,20 @@
    "transform|biến đổi"
   ],
   "ant": [],
-  "id": "b1-002"
+  "id": "b1-002",
+  "rootVi": "cuộc cách mạng",
+  "famEx": [
+   {
+    "form": "revolution",
+    "en": "The French Revolution changed history.",
+    "vi": "Cách mạng Pháp đã thay đổi lịch sử."
+   },
+   {
+    "form": "revolutionary",
+    "en": "It was a revolutionary new design.",
+    "vi": "Đó là một thiết kế mới mang tính cách mạng."
+   }
+  ]
  },
  {
   "root": "TERRIFY",
@@ -76,7 +102,20 @@
   "ant": [
    "calm|bình tĩnh"
   ],
-  "id": "b1-003"
+  "id": "b1-003",
+  "rootVi": "làm khiếp sợ",
+  "famEx": [
+   {
+    "form": "terrify",
+    "en": "Spiders terrify my sister.",
+    "vi": "Nhện làm chị tôi khiếp sợ."
+   },
+   {
+    "form": "terrifying",
+    "en": "It was a terrifying experience.",
+    "vi": "Đó là một trải nghiệm kinh hoàng."
+   }
+  ]
  },
  {
   "root": "SERIOUS",
@@ -102,7 +141,20 @@
   "ant": [
    "slightly|nhẹ"
   ],
-  "id": "b1-004"
+  "id": "b1-004",
+  "rootVi": "nghiêm trọng; nghiêm túc",
+  "famEx": [
+   {
+    "form": "serious",
+    "en": "This is a serious problem.",
+    "vi": "Đây là một vấn đề nghiêm trọng."
+   },
+   {
+    "form": "seriousness",
+    "en": "He didn't realise the seriousness of the situation.",
+    "vi": "Anh ấy không nhận ra mức độ nghiêm trọng của tình hình."
+   }
+  ]
  },
  {
   "root": "BELIEVE",
@@ -129,7 +181,20 @@
   "ant": [
    "doubt|sự nghi ngờ"
   ],
-  "id": "b1-005"
+  "id": "b1-005",
+  "rootVi": "tin, tin tưởng",
+  "famEx": [
+   {
+    "form": "believe",
+    "en": "I believe you are right.",
+    "vi": "Tôi tin bạn đúng."
+   },
+   {
+    "form": "believable",
+    "en": "The film's plot is quite believable.",
+    "vi": "Cốt truyện phim khá đáng tin."
+   }
+  ]
  },
  {
   "root": "HELP",
@@ -156,7 +221,20 @@
   "ant": [
    "powerful|mạnh mẽ"
   ],
-  "id": "b1-006"
+  "id": "b1-006",
+  "rootVi": "giúp đỡ; sự giúp đỡ",
+  "famEx": [
+   {
+    "form": "help",
+    "en": "Can you help me with this?",
+    "vi": "Bạn giúp tôi việc này được không?"
+   },
+   {
+    "form": "helpful",
+    "en": "The staff were very helpful.",
+    "vi": "Nhân viên rất nhiệt tình giúp đỡ."
+   }
+  ]
  },
  {
   "root": "SOCIETY",
@@ -179,7 +257,20 @@
   "enVi2": "Con người là sinh vật xã hội.",
   "syn": [],
   "ant": [],
-  "id": "b1-007"
+  "id": "b1-007",
+  "rootVi": "xã hội",
+  "famEx": [
+   {
+    "form": "society",
+    "en": "Education benefits society.",
+    "vi": "Giáo dục mang lại lợi ích cho xã hội."
+   },
+   {
+    "form": "socialize",
+    "en": "She likes to socialize with new people.",
+    "vi": "Cô ấy thích giao lưu với người mới."
+   }
+  ]
  },
  {
   "root": "QUALIFY",
@@ -206,7 +297,20 @@
   "ant": [
    "qualify|đủ tư cách"
   ],
-  "id": "b1-008"
+  "id": "b1-008",
+  "rootVi": "đủ tư cách, đủ điều kiện",
+  "famEx": [
+   {
+    "form": "qualify",
+    "en": "You must pass the test to qualify.",
+    "vi": "Bạn phải đỗ bài thi để đủ điều kiện."
+   },
+   {
+    "form": "qualification",
+    "en": "This job requires a qualification.",
+    "vi": "Công việc này yêu cầu bằng cấp."
+   }
+  ]
  },
  {
   "root": "ECONOMY",
@@ -233,7 +337,20 @@
   "ant": [
    "wasteful|lãng phí"
   ],
-  "id": "b1-009"
+  "id": "b1-009",
+  "rootVi": "nền kinh tế",
+  "famEx": [
+   {
+    "form": "economy",
+    "en": "The country's economy is growing.",
+    "vi": "Nền kinh tế của đất nước đang tăng trưởng."
+   },
+   {
+    "form": "economic",
+    "en": "The government announced new economic policies.",
+    "vi": "Chính phủ công bố các chính sách kinh tế mới."
+   }
+  ]
  },
  {
   "root": "FORTUNE",
@@ -260,7 +377,20 @@
   "ant": [
    "fortunately|may mắn thay"
   ],
-  "id": "b1-010"
+  "id": "b1-010",
+  "rootVi": "vận may; gia tài lớn",
+  "famEx": [
+   {
+    "form": "fortune",
+    "en": "She made a fortune in business.",
+    "vi": "Cô ấy kiếm được một gia tài trong kinh doanh."
+   },
+   {
+    "form": "fortunate",
+    "en": "We were fortunate to escape the storm.",
+    "vi": "Chúng tôi may mắn thoát khỏi cơn bão."
+   }
+  ]
  },
  {
   "root": "FRIGHT",
@@ -287,7 +417,20 @@
   "ant": [
    "calm|trấn an"
   ],
-  "id": "b1-011"
+  "id": "b1-011",
+  "rootVi": "sự sợ hãi",
+  "famEx": [
+   {
+    "form": "fright",
+    "en": "She screamed in fright.",
+    "vi": "Cô ấy hét lên vì sợ."
+   },
+   {
+    "form": "frightening",
+    "en": "That was a frightening film.",
+    "vi": "Đó là một bộ phim đáng sợ."
+   }
+  ]
  },
  {
   "root": "EXHAUST",
@@ -314,7 +457,20 @@
   "ant": [
    "relaxing|thư giãn"
   ],
-  "id": "b1-012"
+  "id": "b1-012",
+  "rootVi": "làm kiệt sức; khí thải",
+  "famEx": [
+   {
+    "form": "exhausted",
+    "en": "After the race, she was exhausted.",
+    "vi": "Sau cuộc đua, cô ấy kiệt sức."
+   },
+   {
+    "form": "exhaustion",
+    "en": "He collapsed from exhaustion.",
+    "vi": "Anh ấy gục ngã vì kiệt sức."
+   }
+  ]
  },
  {
   "root": "SIMILAR",
@@ -340,7 +496,20 @@
   "ant": [
    "differently|khác biệt"
   ],
-  "id": "b1-013"
+  "id": "b1-013",
+  "rootVi": "giống, tương tự",
+  "famEx": [
+   {
+    "form": "similar",
+    "en": "These two bags are similar.",
+    "vi": "Hai chiếc túi này giống nhau."
+   },
+   {
+    "form": "similarity",
+    "en": "There is a similarity between them.",
+    "vi": "Có sự giống nhau giữa chúng."
+   }
+  ]
  },
  {
   "root": "MUSIC",
@@ -364,7 +533,20 @@
    "players|người chơi nhạc"
   ],
   "ant": [],
-  "id": "b1-014"
+  "id": "b1-014",
+  "rootVi": "âm nhạc",
+  "famEx": [
+   {
+    "form": "music",
+    "en": "I love listening to music.",
+    "vi": "Tôi thích nghe nhạc."
+   },
+   {
+    "form": "musical",
+    "en": "She comes from a musical family.",
+    "vi": "Cô ấy xuất thân từ một gia đình âm nhạc."
+   }
+  ]
  },
  {
   "root": "MONTH",
@@ -385,7 +567,20 @@
   "enVi2": "Cô ấy trả phí phòng gym hàng tháng.",
   "syn": [],
   "ant": [],
-  "id": "b1-015"
+  "id": "b1-015",
+  "rootVi": "tháng",
+  "famEx": [
+   {
+    "form": "month",
+    "en": "January is the first month of the year.",
+    "vi": "Tháng Giêng là tháng đầu năm."
+   },
+   {
+    "form": "months",
+    "en": "It rained for three months.",
+    "vi": "Trời mưa suốt ba tháng."
+   }
+  ]
  },
  {
   "root": "REFLECT",
@@ -409,7 +604,20 @@
    "image|hình ảnh"
   ],
   "ant": [],
-  "id": "b1-016"
+  "id": "b1-016",
+  "rootVi": "phản chiếu; suy ngẫm",
+  "famEx": [
+   {
+    "form": "reflect",
+    "en": "The water reflects the sky.",
+    "vi": "Mặt nước phản chiếu bầu trời."
+   },
+   {
+    "form": "reflective",
+    "en": "He is a quiet, reflective person.",
+    "vi": "Anh ấy là người trầm lặng, hay suy ngẫm."
+   }
+  ]
  },
  {
   "root": "SECOND",
@@ -435,7 +643,20 @@
   "ant": [
    "primary|chính yếu"
   ],
-  "id": "b1-017"
+  "id": "b1-017",
+  "rootVi": "thứ hai; giây",
+  "famEx": [
+   {
+    "form": "second",
+    "en": "She finished in second place.",
+    "vi": "Cô ấy về nhì."
+   },
+   {
+    "form": "secondly",
+    "en": "Secondly, we must save money.",
+    "vi": "Thứ hai, chúng ta phải tiết kiệm tiền."
+   }
+  ]
  },
  {
   "root": "EFFECT",
@@ -462,7 +683,20 @@
   "ant": [
    "ineffectively|kém hiệu quả"
   ],
-  "id": "b1-018"
+  "id": "b1-018",
+  "rootVi": "tác động, ảnh hưởng",
+  "famEx": [
+   {
+    "form": "effect",
+    "en": "The medicine had a strong effect.",
+    "vi": "Thuốc có tác dụng mạnh."
+   },
+   {
+    "form": "effective",
+    "en": "This is an effective method.",
+    "vi": "Đây là một phương pháp hiệu quả."
+   }
+  ]
  },
  {
   "root": "THREAT",
@@ -486,7 +720,20 @@
    "menacing|hăm dọa"
   ],
   "ant": [],
-  "id": "b1-019"
+  "id": "b1-019",
+  "rootVi": "mối/lời đe dọa",
+  "famEx": [
+   {
+    "form": "threat",
+    "en": "Pollution is a threat to wildlife.",
+    "vi": "Ô nhiễm là mối đe dọa với động vật hoang dã."
+   },
+   {
+    "form": "threaten",
+    "en": "They threatened to leave.",
+    "vi": "Họ dọa sẽ rời đi."
+   }
+  ]
  },
  {
   "root": "COMPETE",
@@ -513,7 +760,20 @@
   "ant": [
    "ally|đồng minh"
   ],
-  "id": "b1-020"
+  "id": "b1-020",
+  "rootVi": "cạnh tranh, thi đấu",
+  "famEx": [
+   {
+    "form": "compete",
+    "en": "Many teams compete for the cup.",
+    "vi": "Nhiều đội tranh tài giành cúp."
+   },
+   {
+    "form": "competitive",
+    "en": "The market is very competitive.",
+    "vi": "Thị trường rất cạnh tranh."
+   }
+  ]
  },
  {
   "root": "COURAGE",
@@ -540,7 +800,20 @@
   "ant": [
    "encouragement|sự động viên"
   ],
-  "id": "b1-021"
+  "id": "b1-021",
+  "rootVi": "lòng can đảm",
+  "famEx": [
+   {
+    "form": "courage",
+    "en": "It took courage to speak up.",
+    "vi": "Cần can đảm để lên tiếng."
+   },
+   {
+    "form": "encourage",
+    "en": "My parents encourage me to study.",
+    "vi": "Bố mẹ động viên tôi học."
+   }
+  ]
  },
  {
   "root": "BREAK",
@@ -563,7 +836,20 @@
    "advance|bước tiến"
   ],
   "ant": [],
-  "id": "b1-022"
+  "id": "b1-022",
+  "rootVi": "làm vỡ; nghỉ giải lao",
+  "famEx": [
+   {
+    "form": "break",
+    "en": "Be careful not to break the glass.",
+    "vi": "Cẩn thận đừng làm vỡ ly."
+   },
+   {
+    "form": "break",
+    "en": "Let's take a short break.",
+    "vi": "Hãy nghỉ giải lao một chút."
+   }
+  ]
  },
  {
   "root": "RELAX",
@@ -590,7 +876,20 @@
   "ant": [
    "stress|căng thẳng"
   ],
-  "id": "b1-023"
+  "id": "b1-023",
+  "rootVi": "thư giãn",
+  "famEx": [
+   {
+    "form": "relax",
+    "en": "I relax by reading books.",
+    "vi": "Tôi thư giãn bằng cách đọc sách."
+   },
+   {
+    "form": "relaxing",
+    "en": "It was a relaxing weekend.",
+    "vi": "Đó là một cuối tuần thư giãn."
+   }
+  ]
  },
  {
   "root": "EXPLORE",
@@ -614,7 +913,20 @@
    "adventurer|người phiêu lưu"
   ],
   "ant": [],
-  "id": "b1-024"
+  "id": "b1-024",
+  "rootVi": "khám phá, thám hiểm",
+  "famEx": [
+   {
+    "form": "explore",
+    "en": "We explored the old town.",
+    "vi": "Chúng tôi khám phá phố cổ."
+   },
+   {
+    "form": "exploration",
+    "en": "Space exploration is expensive.",
+    "vi": "Thám hiểm vũ trụ rất tốn kém."
+   }
+  ]
  },
  {
   "root": "DENY",
@@ -640,7 +952,20 @@
   "ant": [
    "admission|sự thừa nhận"
   ],
-  "id": "b1-025"
+  "id": "b1-025",
+  "rootVi": "phủ nhận, chối",
+  "famEx": [
+   {
+    "form": "deny",
+    "en": "He denied taking the money.",
+    "vi": "Anh ta phủ nhận đã lấy tiền."
+   },
+   {
+    "form": "undeniable",
+    "en": "The evidence is undeniable.",
+    "vi": "Bằng chứng không thể chối cãi."
+   }
+  ]
  },
  {
   "root": "ENTER",
@@ -666,7 +991,20 @@
   "ant": [
    "exit|lối ra"
   ],
-  "id": "b1-026"
+  "id": "b1-026",
+  "rootVi": "đi vào, vào",
+  "famEx": [
+   {
+    "form": "enter",
+    "en": "Please knock before you enter.",
+    "vi": "Hãy gõ cửa trước khi vào."
+   },
+   {
+    "form": "entry",
+    "en": "Entry to the museum is free.",
+    "vi": "Vào bảo tàng miễn phí."
+   }
+  ]
  },
  {
   "root": "BEAUTY",
@@ -693,7 +1031,20 @@
   "ant": [
    "spoil|làm hỏng"
   ],
-  "id": "b1-027"
+  "id": "b1-027",
+  "rootVi": "vẻ đẹp; người đẹp",
+  "famEx": [
+   {
+    "form": "beauty",
+    "en": "The beauty of the lake amazed us.",
+    "vi": "Vẻ đẹp của hồ khiến chúng tôi kinh ngạc."
+   },
+   {
+    "form": "beautiful",
+    "en": "What a beautiful garden!",
+    "vi": "Khu vườn đẹp làm sao!"
+   }
+  ]
  },
  {
   "root": "EXCHANGE",
@@ -716,7 +1067,20 @@
    "returnable|có thể trả lại"
   ],
   "ant": [],
-  "id": "b1-028"
+  "id": "b1-028",
+  "rootVi": "trao đổi; sự trao đổi",
+  "famEx": [
+   {
+    "form": "exchange",
+    "en": "We exchanged phone numbers.",
+    "vi": "Chúng tôi trao đổi số điện thoại."
+   },
+   {
+    "form": "exchange",
+    "en": "I'd like to exchange this shirt.",
+    "vi": "Tôi muốn đổi chiếc áo này."
+   }
+  ]
  },
  {
   "root": "RESPIRE",
@@ -738,7 +1102,20 @@
   "enVi2": "Hệ hô hấp đưa oxy vào cơ thể.",
   "syn": [],
   "ant": [],
-  "id": "b1-029"
+  "id": "b1-029",
+  "rootVi": "hô hấp, thở",
+  "famEx": [
+   {
+    "form": "respiration",
+    "en": "Respiration brings oxygen into the body.",
+    "vi": "Sự hô hấp đưa oxy vào cơ thể."
+   },
+   {
+    "form": "respire",
+    "en": "All living things respire.",
+    "vi": "Mọi sinh vật đều hô hấp."
+   }
+  ]
  },
  {
   "root": "ULTIMATE",
@@ -763,7 +1140,20 @@
   "ant": [
    "initially|ban đầu"
   ],
-  "id": "b1-030"
+  "id": "b1-030",
+  "rootVi": "cuối cùng, tối hậu",
+  "famEx": [
+   {
+    "form": "ultimate",
+    "en": "Our ultimate goal is success.",
+    "vi": "Mục tiêu cuối cùng của chúng tôi là thành công."
+   },
+   {
+    "form": "ultimate",
+    "en": "This is the ultimate test of skill.",
+    "vi": "Đây là bài kiểm tra kỹ năng cao nhất."
+   }
+  ]
  },
  {
   "root": "OCCUR",
@@ -786,7 +1176,20 @@
    "event|sự kiện"
   ],
   "ant": [],
-  "id": "b1-031"
+  "id": "b1-031",
+  "rootVi": "xảy ra",
+  "famEx": [
+   {
+    "form": "occur",
+    "en": "The accident occurred at night.",
+    "vi": "Tai nạn xảy ra vào ban đêm."
+   },
+   {
+    "form": "occur",
+    "en": "A good idea occurred to me.",
+    "vi": "Một ý hay chợt đến với tôi."
+   }
+  ]
  },
  {
   "root": "GENEROUS",
@@ -812,7 +1215,20 @@
   "ant": [
    "greed|sự tham lam"
   ],
-  "id": "b1-032"
+  "id": "b1-032",
+  "rootVi": "hào phóng, rộng lượng",
+  "famEx": [
+   {
+    "form": "generous",
+    "en": "She is generous with her time.",
+    "vi": "Cô ấy hào phóng về thời gian."
+   },
+   {
+    "form": "generously",
+    "en": "He gave generously to charity.",
+    "vi": "Anh ấy quyên góp hào phóng cho từ thiện."
+   }
+  ]
  },
  {
   "root": "NATION",
@@ -838,7 +1254,20 @@
   "ant": [
    "local|địa phương"
   ],
-  "id": "b1-033"
+  "id": "b1-033",
+  "rootVi": "quốc gia, đất nước",
+  "famEx": [
+   {
+    "form": "nation",
+    "en": "The whole nation celebrated.",
+    "vi": "Cả nước ăn mừng."
+   },
+   {
+    "form": "national",
+    "en": "Football is the national sport.",
+    "vi": "Bóng đá là môn thể thao quốc gia."
+   }
+  ]
  },
  {
   "root": "DESTROY",
@@ -864,7 +1293,20 @@
   "ant": [
    "constructive|xây dựng"
   ],
-  "id": "b1-034"
+  "id": "b1-034",
+  "rootVi": "phá hủy, tiêu diệt",
+  "famEx": [
+   {
+    "form": "destroy",
+    "en": "The fire destroyed the building.",
+    "vi": "Đám cháy đã phá hủy tòa nhà."
+   },
+   {
+    "form": "destruction",
+    "en": "The storm caused great destruction.",
+    "vi": "Cơn bão gây ra sự tàn phá lớn."
+   }
+  ]
  },
  {
   "root": "REPLACE",
@@ -891,7 +1333,20 @@
   "ant": [
    "replaceable|có thể thay thế"
   ],
-  "id": "b1-035"
+  "id": "b1-035",
+  "rootVi": "thay thế",
+  "famEx": [
+   {
+    "form": "replace",
+    "en": "We need to replace the old tyres.",
+    "vi": "Chúng ta cần thay lốp xe cũ."
+   },
+   {
+    "form": "replacement",
+    "en": "They sent a replacement for free.",
+    "vi": "Họ gửi hàng thay thế miễn phí."
+   }
+  ]
  },
  {
   "root": "VOLCANO",
@@ -912,7 +1367,20 @@
   "enVi2": "Tro núi lửa phủ kín bầu trời.",
   "syn": [],
   "ant": [],
-  "id": "b1-036"
+  "id": "b1-036",
+  "rootVi": "núi lửa",
+  "famEx": [
+   {
+    "form": "volcano",
+    "en": "The volcano erupted last year.",
+    "vi": "Núi lửa phun trào năm ngoái."
+   },
+   {
+    "form": "volcanoes",
+    "en": "Indonesia has many volcanoes.",
+    "vi": "Indonesia có nhiều núi lửa."
+   }
+  ]
  },
  {
   "root": "EXTEND",
@@ -939,7 +1407,20 @@
   "ant": [
    "slightly|chút ít"
   ],
-  "id": "b1-037"
+  "id": "b1-037",
+  "rootVi": "kéo dài, mở rộng",
+  "famEx": [
+   {
+    "form": "extend",
+    "en": "They extended the deadline.",
+    "vi": "Họ đã gia hạn thời hạn."
+   },
+   {
+    "form": "extensive",
+    "en": "She has extensive experience.",
+    "vi": "Cô ấy có kinh nghiệm sâu rộng."
+   }
+  ]
  },
  {
   "root": "NEED",
@@ -963,7 +1444,20 @@
    "necessity|sự cần thiết"
   ],
   "ant": [],
-  "id": "b1-038"
+  "id": "b1-038",
+  "rootVi": "cần; nhu cầu",
+  "famEx": [
+   {
+    "form": "need",
+    "en": "I need some help.",
+    "vi": "Tôi cần giúp đỡ."
+   },
+   {
+    "form": "needy",
+    "en": "They donate to needy families.",
+    "vi": "Họ quyên góp cho các gia đình khó khăn."
+   }
+  ]
  },
  {
   "root": "INNOVATE",
@@ -988,7 +1482,20 @@
    "pioneer|người tiên phong"
   ],
   "ant": [],
-  "id": "b1-039"
+  "id": "b1-039",
+  "rootVi": "đổi mới, cải tiến",
+  "famEx": [
+   {
+    "form": "innovate",
+    "en": "Companies must innovate to survive.",
+    "vi": "Các công ty phải đổi mới để tồn tại."
+   },
+   {
+    "form": "innovative",
+    "en": "It is an innovative solution.",
+    "vi": "Đó là một giải pháp sáng tạo."
+   }
+  ]
  },
  {
   "root": "PURE",
@@ -1014,7 +1521,20 @@
   "ant": [
    "pollute|làm ô nhiễm"
   ],
-  "id": "b1-040"
+  "id": "b1-040",
+  "rootVi": "tinh khiết, trong sạch",
+  "famEx": [
+   {
+    "form": "pure",
+    "en": "This is pure gold.",
+    "vi": "Đây là vàng nguyên chất."
+   },
+   {
+    "form": "purity",
+    "en": "They test the purity of the water.",
+    "vi": "Họ kiểm tra độ tinh khiết của nước."
+   }
+  ]
  },
  {
   "root": "PRIORITY",
@@ -1035,7 +1555,20 @@
   "enVi2": "Chúng ta phải ưu tiên sự an toàn.",
   "syn": [],
   "ant": [],
-  "id": "b1-041"
+  "id": "b1-041",
+  "rootVi": "sự ưu tiên",
+  "famEx": [
+   {
+    "form": "priority",
+    "en": "Safety is our top priority.",
+    "vi": "An toàn là ưu tiên hàng đầu."
+   },
+   {
+    "form": "priorities",
+    "en": "You need to set your priorities.",
+    "vi": "Bạn cần xác định các ưu tiên."
+   }
+  ]
  },
  {
   "root": "NOMINATE",
@@ -1057,7 +1590,20 @@
   "enVi2": "Sự đề cử của ông là một bất ngờ.",
   "syn": [],
   "ant": [],
-  "id": "b1-042"
+  "id": "b1-042",
+  "rootVi": "đề cử",
+  "famEx": [
+   {
+    "form": "nominate",
+    "en": "They nominated her as leader.",
+    "vi": "Họ đề cử cô ấy làm lãnh đạo."
+   },
+   {
+    "form": "nominee",
+    "en": "She is a nominee for the award.",
+    "vi": "Cô ấy là ứng viên được đề cử cho giải thưởng."
+   }
+  ]
  },
  {
   "root": "DEPEND",
@@ -1084,7 +1630,20 @@
   "ant": [
    "unreliable|không đáng tin"
   ],
-  "id": "b1-043"
+  "id": "b1-043",
+  "rootVi": "phụ thuộc, dựa vào",
+  "famEx": [
+   {
+    "form": "depend",
+    "en": "It depends on the weather.",
+    "vi": "Điều đó phụ thuộc vào thời tiết."
+   },
+   {
+    "form": "dependent",
+    "en": "Children are dependent on their parents.",
+    "vi": "Trẻ em phụ thuộc vào bố mẹ."
+   }
+  ]
  },
  {
   "root": "FOND",
@@ -1110,7 +1669,20 @@
   "ant": [
    "dislike|sự ghét"
   ],
-  "id": "b1-044"
+  "id": "b1-044",
+  "rootVi": "yêu thích, mến",
+  "famEx": [
+   {
+    "form": "fond",
+    "en": "She is fond of animals.",
+    "vi": "Cô ấy yêu động vật."
+   },
+   {
+    "form": "fondly",
+    "en": "He fondly remembers his childhood.",
+    "vi": "Anh ấy trìu mến nhớ về tuổi thơ."
+   }
+  ]
  },
  {
   "root": "OCCASION",
@@ -1136,7 +1708,20 @@
   "ant": [
    "frequently|thường xuyên"
   ],
-  "id": "b1-045"
+  "id": "b1-045",
+  "rootVi": "dịp, cơ hội",
+  "famEx": [
+   {
+    "form": "occasion",
+    "en": "We met on several occasions.",
+    "vi": "Chúng tôi gặp nhau nhiều dịp."
+   },
+   {
+    "form": "occasional",
+    "en": "He pays occasional visits.",
+    "vi": "Anh ấy thỉnh thoảng ghé thăm."
+   }
+  ]
  },
  {
   "root": "EASY",
@@ -1162,7 +1747,20 @@
   "ant": [
    "worsen|làm tệ hơn"
   ],
-  "id": "b1-046"
+  "id": "b1-046",
+  "rootVi": "dễ dàng",
+  "famEx": [
+   {
+    "form": "easy",
+    "en": "The exam was easy.",
+    "vi": "Bài thi dễ."
+   },
+   {
+    "form": "easily",
+    "en": "She solved it easily.",
+    "vi": "Cô ấy giải nó dễ dàng."
+   }
+  ]
  },
  {
   "root": "REPAIR",
@@ -1188,7 +1786,20 @@
   "ant": [
    "repairable|có thể sửa"
   ],
-  "id": "b1-047"
+  "id": "b1-047",
+  "rootVi": "sửa chữa",
+  "famEx": [
+   {
+    "form": "repair",
+    "en": "He repaired my bike.",
+    "vi": "Anh ấy sửa xe đạp cho tôi."
+   },
+   {
+    "form": "repairable",
+    "en": "Luckily, the damage is repairable.",
+    "vi": "May là thiệt hại có thể sửa được."
+   }
+  ]
  },
  {
   "root": "CONSUME",
@@ -1214,7 +1825,20 @@
   "ant": [
    "producers|nhà sản xuất"
   ],
-  "id": "b1-048"
+  "id": "b1-048",
+  "rootVi": "tiêu thụ, tiêu dùng",
+  "famEx": [
+   {
+    "form": "consume",
+    "en": "We consume too much sugar.",
+    "vi": "Chúng ta tiêu thụ quá nhiều đường."
+   },
+   {
+    "form": "consumption",
+    "en": "Reduce your energy consumption.",
+    "vi": "Hãy giảm mức tiêu thụ năng lượng."
+   }
+  ]
  },
  {
   "root": "JOY",
@@ -1240,7 +1864,20 @@
   "ant": [
    "sad|buồn"
   ],
-  "id": "b1-049"
+  "id": "b1-049",
+  "rootVi": "niềm vui",
+  "famEx": [
+   {
+    "form": "joy",
+    "en": "The news brought us great joy.",
+    "vi": "Tin tức mang lại cho chúng tôi niềm vui lớn."
+   },
+   {
+    "form": "joyfully",
+    "en": "The children played joyfully.",
+    "vi": "Bọn trẻ chơi đùa vui vẻ."
+   }
+  ]
  },
  {
   "root": "HOME",
@@ -1262,6 +1899,19 @@
   "enVi2": "Tổ chức từ thiện giúp các gia đình vô gia cư.",
   "syn": [],
   "ant": [],
-  "id": "b1-050"
+  "id": "b1-050",
+  "rootVi": "nhà, mái ấm",
+  "famEx": [
+   {
+    "form": "home",
+    "en": "I go home after school.",
+    "vi": "Tôi về nhà sau giờ học."
+   },
+   {
+    "form": "homelessness",
+    "en": "The city is fighting homelessness.",
+    "vi": "Thành phố đang chống nạn vô gia cư."
+   }
+  ]
  }
 ]
